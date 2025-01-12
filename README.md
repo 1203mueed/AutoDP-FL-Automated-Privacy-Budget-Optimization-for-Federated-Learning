@@ -1,3 +1,4 @@
+
 # AutoDP-FL: Automated Privacy Budget Optimization for Federated Learning
 
 **Description:**  
@@ -12,7 +13,8 @@ AutoDP-FL automates privacy budget (ε) tuning for federated learning. It uses O
 4. [Differential Privacy with Opacus](#differential-privacy-with-opacus)
 5. [Federated Learning with Flower](#federated-learning-with-flower)
 6. [Optimal Epsilon Discovery](#optimal-epsilon-discovery)
-7. [Contributing](#contributing)
+7. [Dataset](#dataset)
+8. [Contributing](#contributing)
 
 ---
 
@@ -33,17 +35,21 @@ AutoDP-FL automates privacy budget (ε) tuning for federated learning. It uses O
    ```bash
    git clone https://github.com/YourUsername/AutoDP-FL-Automated-Privacy-Budget-Optimization-for-Federated-Learning.git
    cd AutoDP-FL-Automated-Privacy-Budget-Optimization-for-Federated-Learning
-   
+   ```
+
 2. **Create and activate a virtual environment** (recommended):
    ```bash
    python -m venv venv
    source venv/bin/activate    # On Linux/Mac
    # or
-   venv\Scripts\activate       # On Windows
-   
+   venv\Scriptsctivate       # On Windows
+   ```
+
 3. **Install dependencies**:
    ```bash
    pip install -r requirements.txt
+   ```
+
 4. **Optional**: Check PyTorch GPU availability:
    ```bash
    python -c "import torch; print(torch.cuda.is_available())"
@@ -66,7 +72,7 @@ For instance, `Opacus_EfficientNet.py`:
 ```bash
 python Opacus_EfficientNet.py
 ```
-Attaches a PrivacyEngine, enabling differential privacy with a chosen or auto-optimized \(arepsilon\).
+Attaches a PrivacyEngine, enabling differential privacy with a chosen or auto-optimized ε.
 
 ### Federated Learning with Flower
 Use `federated_with_saving.py` to simulate multiple federated clients:
@@ -87,7 +93,7 @@ Tries different hyperparameters (e.g., learning rate, weight decay) and picks th
 ## Differential Privacy with Opacus
 Opacus integrates with PyTorch to protect user data by:
 - Bounding per-sample gradients (`max_grad_norm`).
-- Adding noise to updates based on the chosen \(arepsilon\) and \(\delta\).
+- Adding noise to updates based on the chosen ε and δ.
 - Tracking total privacy expenditure as training progresses.
 
 ---
@@ -101,9 +107,15 @@ Flower orchestrates federated rounds by:
 ---
 
 ## Optimal Epsilon Discovery
-1. **Train with Multiple Epsilons**: The code tries a range of \(arepsilon\) values (e.g., 0.1, 1.0, 5.0).
-2. **Monitor Performance**: Logs accuracy, F1-score, etc., for each \(arepsilon\).
-3. **Select the Best**: Chooses the \(arepsilon\) that yields the best trade-off between model utility and privacy.
+1. **Train with Multiple Epsilons**: The code tries a range of ε values (e.g., 0.1, 1.0, 5.0).
+2. **Monitor Performance**: Logs accuracy, F1-score, etc., for each ε.
+3. **Select the Best**: Chooses the ε that yields the best trade-off between model utility and privacy.
+
+---
+
+## Dataset
+This project uses the [DERM12345 Dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DAXZ7P):  
+**DERM12345: A Large, Multisource Dermatoscopic Skin Lesion Dataset with 40 Subclasses**.
 
 ---
 
@@ -115,5 +127,3 @@ Flower orchestrates federated rounds by:
 ---
 
 **Happy Federated Learning with Privacy!**
-
-
