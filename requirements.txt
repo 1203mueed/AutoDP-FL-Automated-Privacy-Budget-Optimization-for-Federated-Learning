@@ -1,0 +1,18 @@
+torch==2.0.1       # or a version compatible with your GPU/CPU environment
+torchvision==0.15.2
+torchaudio==2.0.2  # optional, if you want audio support from PyTorch
+
+scikit-learn==1.2.2
+pandas==1.5.3
+numpy==1.23.5
+optuna==3.1.1
+tqdm==4.65.0
+Pillow==9.5.0
+mermaid==0.5.2     # if you want to render the mermaid state diagrams
+jsonschema==4.17.3
+flwr==1.2.0        # Flower for federated learning
+opacus==1.3.0      # for DP in PyTorch
+
+# If you use plot libraries for analysis or others:
+matplotlib==3.7.1
+seaborn==0.12.2
