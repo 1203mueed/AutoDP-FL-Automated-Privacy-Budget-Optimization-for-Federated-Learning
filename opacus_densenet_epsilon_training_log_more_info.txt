@@ -1,0 +1,1496 @@
+Epoch 1
+Train Loss: 2946.0522, Val Loss: 6.7759
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.04, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 6.25
+Training Duration: 241.95s
+Privacy-Performance Tradeoff: 0.06
+
+Epoch 2
+Train Loss: 3162.5969, Val Loss: 7.2856
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.05, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 6.25
+Training Duration: 240.60s
+Privacy-Performance Tradeoff: 0.08
+
+Epoch 3
+Train Loss: 3315.6333, Val Loss: 7.5806
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.06, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 6.25
+Training Duration: 237.59s
+Privacy-Performance Tradeoff: 0.10
+
+Epoch 4
+Train Loss: 3904.3709, Val Loss: 8.8476
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.06, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 6.25
+Training Duration: 241.60s
+Privacy-Performance Tradeoff: 0.11
+
+Epoch 5
+Train Loss: 4317.1754, Val Loss: 10.6470
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.07, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 6.25
+Training Duration: 239.39s
+Privacy-Performance Tradeoff: 0.13
+
+Epoch 6
+Train Loss: 3909.9168, Val Loss: 7.6767
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.08, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 6.25
+Training Duration: 238.57s
+Privacy-Performance Tradeoff: 0.14
+
+Epoch 7
+Train Loss: 4160.4382, Val Loss: 11.1192
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.08, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 6.25
+Training Duration: 240.28s
+Privacy-Performance Tradeoff: 0.15
+
+Epoch 8
+Train Loss: 4485.8982, Val Loss: 9.9807
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.09, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 6.25
+Training Duration: 238.70s
+Privacy-Performance Tradeoff: 0.16
+
+Epoch 9
+Train Loss: 4157.6418, Val Loss: 9.2639
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.09, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 6.25
+Training Duration: 239.15s
+Privacy-Performance Tradeoff: 0.17
+
+Epoch 10
+Train Loss: 4268.9924, Val Loss: 10.1341
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.10, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 6.25
+Training Duration: 237.84s
+Privacy-Performance Tradeoff: 0.18
+
+Epoch 1
+Train Loss: 3183.5314, Val Loss: 7.5122
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.06, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 3.28
+Training Duration: 245.19s
+Privacy-Performance Tradeoff: 0.11
+
+Epoch 2
+Train Loss: 3613.9405, Val Loss: 7.1090
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.09, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 3.28
+Training Duration: 243.16s
+Privacy-Performance Tradeoff: 0.16
+
+Epoch 3
+Train Loss: 3443.3445, Val Loss: 7.6827
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.11, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 3.28
+Training Duration: 241.77s
+Privacy-Performance Tradeoff: 0.19
+
+Epoch 4
+Train Loss: 3625.0172, Val Loss: 9.7985
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.12, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 3.28
+Training Duration: 237.00s
+Privacy-Performance Tradeoff: 0.22
+
+Epoch 5
+Train Loss: 4316.6420, Val Loss: 10.4424
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.14, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 3.28
+Training Duration: 238.95s
+Privacy-Performance Tradeoff: 0.25
+
+Epoch 6
+Train Loss: 4541.9336, Val Loss: 9.8309
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.15, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 3.28
+Training Duration: 240.39s
+Privacy-Performance Tradeoff: 0.27
+
+Epoch 7
+Train Loss: 4030.7142, Val Loss: 9.0843
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.16, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 3.28
+Training Duration: 239.52s
+Privacy-Performance Tradeoff: 0.29
+
+Epoch 8
+Train Loss: 4471.5824, Val Loss: 9.9560
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.17, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 3.28
+Training Duration: 248.16s
+Privacy-Performance Tradeoff: 0.31
+
+Epoch 9
+Train Loss: 4774.7327, Val Loss: 9.4531
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.18, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 3.28
+Training Duration: 244.82s
+Privacy-Performance Tradeoff: 0.33
+
+Epoch 10
+Train Loss: 4145.5979, Val Loss: 10.1507
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.19, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 3.28
+Training Duration: 233.30s
+Privacy-Performance Tradeoff: 0.35
+
+Epoch 1
+Train Loss: 3275.4705, Val Loss: 9.2495
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.09, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 2.27
+Training Duration: 234.84s
+Privacy-Performance Tradeoff: 0.17
+
+Epoch 2
+Train Loss: 4081.3464, Val Loss: 8.8764
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.13, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 2.27
+Training Duration: 238.70s
+Privacy-Performance Tradeoff: 0.23
+
+Epoch 3
+Train Loss: 3972.4037, Val Loss: 8.1455
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.16, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 2.27
+Training Duration: 240.60s
+Privacy-Performance Tradeoff: 0.29
+
+Epoch 4
+Train Loss: 4175.2142, Val Loss: 10.7054
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.18, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 2.27
+Training Duration: 238.06s
+Privacy-Performance Tradeoff: 0.33
+
+Epoch 5
+Train Loss: 4593.2385, Val Loss: 10.2844
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.21, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 2.27
+Training Duration: 239.28s
+Privacy-Performance Tradeoff: 0.37
+
+Epoch 6
+Train Loss: 4556.0613, Val Loss: 10.1617
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.23, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 2.27
+Training Duration: 239.62s
+Privacy-Performance Tradeoff: 0.41
+
+Epoch 7
+Train Loss: 4187.9353, Val Loss: 8.6476
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.24, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 2.27
+Training Duration: 235.32s
+Privacy-Performance Tradeoff: 0.44
+
+Epoch 8
+Train Loss: 3889.7005, Val Loss: 10.2793
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.26, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 2.27
+Training Duration: 236.78s
+Privacy-Performance Tradeoff: 0.47
+
+Epoch 9
+Train Loss: 4263.5997, Val Loss: 9.7764
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.28, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 2.27
+Training Duration: 236.34s
+Privacy-Performance Tradeoff: 0.50
+
+Epoch 10
+Train Loss: 4348.6020, Val Loss: 9.6815
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.29, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 2.27
+Training Duration: 243.22s
+Privacy-Performance Tradeoff: 0.53
+
+Epoch 1
+Train Loss: 3287.8334, Val Loss: 9.3562
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.12, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.80
+Training Duration: 239.38s
+Privacy-Performance Tradeoff: 0.22
+
+Epoch 2
+Train Loss: 4201.9678, Val Loss: 10.2655
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.17, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.80
+Training Duration: 238.08s
+Privacy-Performance Tradeoff: 0.31
+
+Epoch 3
+Train Loss: 4422.2932, Val Loss: 9.4842
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.21, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.80
+Training Duration: 243.68s
+Privacy-Performance Tradeoff: 0.38
+
+Epoch 4
+Train Loss: 4214.7028, Val Loss: 9.5747
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.24, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.80
+Training Duration: 240.52s
+Privacy-Performance Tradeoff: 0.44
+
+Epoch 5
+Train Loss: 3778.6515, Val Loss: 8.7669
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.27, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.80
+Training Duration: 235.44s
+Privacy-Performance Tradeoff: 0.49
+
+Epoch 6
+Train Loss: 3684.1503, Val Loss: 8.0238
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.30, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.80
+Training Duration: 241.42s
+Privacy-Performance Tradeoff: 0.54
+
+Epoch 7
+Train Loss: 3283.7739, Val Loss: 6.8848
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.32, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.80
+Training Duration: 239.13s
+Privacy-Performance Tradeoff: 0.58
+
+Epoch 8
+Train Loss: 2944.0061, Val Loss: 7.1825
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.492608777781231, 'recall': 0.6742052313883299, 'f1_score': 0.5547630544281755}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.2945136734079345, 'recall': 0.4921529175050302, 'f1_score': 0.3257099643951061}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.35, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.80
+Training Duration: 235.03s
+Privacy-Performance Tradeoff: 0.63
+
+Epoch 9
+Train Loss: 2977.1359, Val Loss: 5.9743
+Avg Metrics: {'accuracy': 0.676056338028169, 'precision': 0.5075582587682839, 'recall': 0.676056338028169, 'f1_score': 0.5606792002662989}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.5018108651911469, 'precision': 0.36729832273674257, 'recall': 0.5018108651911469, 'f1_score': 0.3538804313147789}, 'main_class_2': {'accuracy': 0.6024144869215292, 'precision': 0.365350972230142, 'recall': 0.6024144869215292, 'f1_score': 0.45484722853248527}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.37, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.80
+Training Duration: 239.86s
+Privacy-Performance Tradeoff: 0.66
+
+Epoch 10
+Train Loss: 2969.4394, Val Loss: 7.0380
+Avg Metrics: {'accuracy': 0.675251509054326, 'precision': 0.501627987037669, 'recall': 0.675251509054326, 'f1_score': 0.5599279671295452}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.49577464788732395, 'precision': 0.3068267062162214, 'recall': 0.49577464788732395, 'f1_score': 0.3412017386048329}, 'main_class_2': {'accuracy': 0.6040241448692153, 'precision': 0.3897071329321219, 'recall': 0.6040241448692153, 'f1_score': 0.46018708081383836}, 'sub_class': {'accuracy': 0.5327967806841046, 'precision': 0.28990785832396704, 'recall': 0.5327967806841046, 'f1_score': 0.37351846596271954}}
+Epsilon: 0.39, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.80
+Training Duration: 235.55s
+Privacy-Performance Tradeoff: 0.70
+
+Epoch 1
+Train Loss: 3208.4234, Val Loss: 8.1562
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.16, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.50
+Training Duration: 237.73s
+Privacy-Performance Tradeoff: 0.28
+
+Epoch 2
+Train Loss: 3566.3138, Val Loss: 9.7385
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.22, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.50
+Training Duration: 234.82s
+Privacy-Performance Tradeoff: 0.39
+
+Epoch 3
+Train Loss: 4153.2126, Val Loss: 8.7356
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.27, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.50
+Training Duration: 238.04s
+Privacy-Performance Tradeoff: 0.48
+
+Epoch 4
+Train Loss: 3647.3754, Val Loss: 7.0536
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.31, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.50
+Training Duration: 239.23s
+Privacy-Performance Tradeoff: 0.56
+
+Epoch 5
+Train Loss: 2829.1464, Val Loss: 6.0378
+Avg Metrics: {'accuracy': 0.6745271629778672, 'precision': 0.4946006892950825, 'recall': 0.6745271629778673, 'f1_score': 0.5557349715162901}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4937625754527163, 'precision': 0.3044732309771917, 'recall': 0.4937625754527163, 'f1_score': 0.3305695498356789}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.34, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.50
+Training Duration: 237.40s
+Privacy-Performance Tradeoff: 0.62
+
+Epoch 6
+Train Loss: 2729.2611, Val Loss: 6.5375
+Avg Metrics: {'accuracy': 0.6749295774647888, 'precision': 0.493823972887525, 'recall': 0.6749295774647888, 'f1_score': 0.5586100137420855}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.49617706237424547, 'precision': 0.3001183830254253, 'recall': 0.49617706237424547, 'f1_score': 0.3446410192458466}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.5319919517102616, 'precision': 0.28391502707247923, 'recall': 0.5319919517102616, 'f1_score': 0.3702395329367049}}
+Epsilon: 0.38, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.50
+Training Duration: 238.52s
+Privacy-Performance Tradeoff: 0.68
+
+Epoch 7
+Train Loss: 2948.6081, Val Loss: 6.6433
+Avg Metrics: {'accuracy': 0.6743661971830985, 'precision': 0.5224095828694932, 'recall': 0.6743661971830985, 'f1_score': 0.5584680860492547}
+Task Metrics: {'super_class': {'accuracy': 0.8450704225352113, 'precision': 0.8690929305190791, 'recall': 0.8450704225352113, 'f1_score': 0.774912543517212}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4937625754527163, 'precision': 0.2827042330588956, 'recall': 0.4937625754527163, 'f1_score': 0.33897209069558776}, 'main_class_2': {'accuracy': 0.6024144869215292, 'precision': 0.3646128894579599, 'recall': 0.6024144869215292, 'f1_score': 0.45427480564231093}, 'sub_class': {'accuracy': 0.5311871227364185, 'precision': 0.2867240160670264, 'recall': 0.5311871227364185, 'f1_score': 0.37242213215701203}}
+Epsilon: 0.41, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.50
+Training Duration: 239.05s
+Privacy-Performance Tradeoff: 0.73
+
+Epoch 8
+Train Loss: 2875.6884, Val Loss: 6.0927
+Avg Metrics: {'accuracy': 0.6822535211267605, 'precision': 0.5673725373038965, 'recall': 0.6822535211267606, 'f1_score': 0.5906114333095382}
+Task Metrics: {'super_class': {'accuracy': 0.8454728370221328, 'precision': 0.8106617549459064, 'recall': 0.8454728370221328, 'f1_score': 0.7795544910601464}, 'malignancy': {'accuracy': 0.9066398390342052, 'precision': 0.8953045501335238, 'recall': 0.9066398390342052, 'f1_score': 0.8714947770668572}, 'main_class_1': {'accuracy': 0.5191146881287726, 'precision': 0.3845436707492671, 'recall': 0.5191146881287726, 'f1_score': 0.43268467769219254}, 'main_class_2': {'accuracy': 0.6080482897384306, 'precision': 0.4493382933597306, 'recall': 0.6080482897384306, 'f1_score': 0.48988386129390976}, 'sub_class': {'accuracy': 0.5319919517102616, 'precision': 0.297014417331054, 'recall': 0.5319919517102616, 'f1_score': 0.379439359434585}}
+Epsilon: 0.44, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.50
+Training Duration: 241.55s
+Privacy-Performance Tradeoff: 0.74
+
+Epoch 9
+Train Loss: 2792.1130, Val Loss: 6.4023
+Avg Metrics: {'accuracy': 0.6799195171026157, 'precision': 0.5642003850964324, 'recall': 0.6799195171026157, 'f1_score': 0.5787185896808358}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.790885708937475, 'recall': 0.8442655935613682, 'f1_score': 0.7737432580289897}, 'malignancy': {'accuracy': 0.9082494969818914, 'precision': 0.9006867819271365, 'recall': 0.9082494969818914, 'f1_score': 0.874264906023677}, 'main_class_1': {'accuracy': 0.5010060362173038, 'precision': 0.3804847153031604, 'recall': 0.5010060362173038, 'f1_score': 0.3717844758877359}, 'main_class_2': {'accuracy': 0.612877263581489, 'precision': 0.45708617890939934, 'recall': 0.612877263581489, 'f1_score': 0.4976152652435615}, 'sub_class': {'accuracy': 0.5331991951710262, 'precision': 0.2918585404049915, 'recall': 0.5331991951710262, 'f1_score': 0.3761850432202151}}
+Epsilon: 0.47, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.50
+Training Duration: 237.22s
+Privacy-Performance Tradeoff: 0.81
+
+Epoch 10
+Train Loss: 2903.0573, Val Loss: 6.0793
+Avg Metrics: {'accuracy': 0.6846680080482898, 'precision': 0.5904288611717845, 'recall': 0.6846680080482898, 'f1_score': 0.5971577605477377}
+Task Metrics: {'super_class': {'accuracy': 0.847887323943662, 'precision': 0.8129273128668671, 'recall': 0.847887323943662, 'f1_score': 0.8125966108044235}, 'malignancy': {'accuracy': 0.9074446680080482, 'precision': 0.899105499910329, 'recall': 0.9074446680080482, 'f1_score': 0.8725985789156618}, 'main_class_1': {'accuracy': 0.5187122736418511, 'precision': 0.3830610561021603, 'recall': 0.5187122736418511, 'f1_score': 0.388458655288519}, 'main_class_2': {'accuracy': 0.6221327967806841, 'precision': 0.5392477915895059, 'recall': 0.6221327967806841, 'f1_score': 0.5248612539753716}, 'sub_class': {'accuracy': 0.5271629778672032, 'precision': 0.31780264539006003, 'recall': 0.5271629778672032, 'f1_score': 0.3872737037547131}}
+Epsilon: 0.49, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.50
+Training Duration: 237.03s
+Privacy-Performance Tradeoff: 0.83
+
+Epoch 1
+Train Loss: 3429.3543, Val Loss: 8.9894
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.19, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.32
+Training Duration: 237.23s
+Privacy-Performance Tradeoff: 0.34
+
+Epoch 2
+Train Loss: 3582.4090, Val Loss: 7.7653
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.26, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.32
+Training Duration: 241.18s
+Privacy-Performance Tradeoff: 0.48
+
+Epoch 3
+Train Loss: 3574.5957, Val Loss: 8.5731
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.32, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.32
+Training Duration: 244.28s
+Privacy-Performance Tradeoff: 0.58
+
+Epoch 4
+Train Loss: 3153.1538, Val Loss: 6.7044
+Avg Metrics: {'accuracy': 0.6741247484909456, 'precision': 0.48222648401865553, 'recall': 0.6741247484909456, 'f1_score': 0.5546033268318282}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.49175050301810863, 'precision': 0.2426022045950572, 'recall': 0.49175050301810863, 'f1_score': 0.3249113264133695}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.37, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.32
+Training Duration: 243.55s
+Privacy-Performance Tradeoff: 0.67
+
+Epoch 5
+Train Loss: 2695.5652, Val Loss: 6.1845
+Avg Metrics: {'accuracy': 0.6774245472837022, 'precision': 0.5203544573248784, 'recall': 0.6774245472837022, 'f1_score': 0.565867686451099}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.5006036217303823, 'precision': 0.32451570455809237, 'recall': 0.5006036217303823, 'f1_score': 0.3640611276541651}, 'main_class_2': {'accuracy': 0.6104627766599597, 'precision': 0.4721145831917649, 'recall': 0.6104627766599597, 'f1_score': 0.47060896311709927}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.42, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.32
+Training Duration: 236.16s
+Privacy-Performance Tradeoff: 0.74
+
+Epoch 6
+Train Loss: 2769.7780, Val Loss: 6.0922
+Avg Metrics: {'accuracy': 0.6851509054325955, 'precision': 0.582642638269734, 'recall': 0.6851509054325956, 'f1_score': 0.5920168420311394}
+Task Metrics: {'super_class': {'accuracy': 0.8474849094567405, 'precision': 0.855484177794037, 'recall': 0.8474849094567405, 'f1_score': 0.7813557575055601}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.523943661971831, 'precision': 0.46009957919311634, 'recall': 0.523943661971831, 'f1_score': 0.4241697170464157}, 'main_class_2': {'accuracy': 0.6277665995975855, 'precision': 0.48298755846673136, 'recall': 0.6277665995975855, 'f1_score': 0.5159677714636065}, 'sub_class': {'accuracy': 0.5271629778672032, 'precision': 0.3057280306502795, 'recall': 0.5271629778672032, 'f1_score': 0.3868321059059638}}
+Epsilon: 0.46, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.32
+Training Duration: 236.56s
+Privacy-Performance Tradeoff: 0.77
+
+Epoch 7
+Train Loss: 2782.4460, Val Loss: 6.8174
+Avg Metrics: {'accuracy': 0.6779879275653924, 'precision': 0.5567132057070883, 'recall': 0.6779879275653924, 'f1_score': 0.5747775987893017}
+Task Metrics: {'super_class': {'accuracy': 0.8446680080482898, 'precision': 0.8688057491486761, 'recall': 0.8446680080482898, 'f1_score': 0.77394514458583}, 'malignancy': {'accuracy': 0.8989939637826961, 'precision': 0.8088774191039959, 'recall': 0.8989939637826961, 'f1_score': 0.8515581729410154}, 'main_class_1': {'accuracy': 0.5183098591549296, 'precision': 0.42322408776166326, 'recall': 0.5183098591549296, 'f1_score': 0.40243468442686375}, 'main_class_2': {'accuracy': 0.5967806841046278, 'precision': 0.39052514430553115, 'recall': 0.5967806841046278, 'f1_score': 0.4698372128839914}, 'sub_class': {'accuracy': 0.5311871227364185, 'precision': 0.2921336282155744, 'recall': 0.5311871227364185, 'f1_score': 0.3761127791088081}}
+Epsilon: 0.49, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.32
+Training Duration: 238.42s
+Privacy-Performance Tradeoff: 0.86
+
+Epoch 8
+Train Loss: 2926.0564, Val Loss: 6.0737
+Avg Metrics: {'accuracy': 0.686599597585513, 'precision': 0.5832511147185995, 'recall': 0.686599597585513, 'f1_score': 0.5961843227968121}
+Task Metrics: {'super_class': {'accuracy': 0.8575452716297787, 'precision': 0.8357561861109464, 'recall': 0.8575452716297787, 'f1_score': 0.8181314716467525}, 'malignancy': {'accuracy': 0.90261569416499, 'precision': 0.8791281174046455, 'recall': 0.90261569416499, 'f1_score': 0.8629804661164276}, 'main_class_1': {'accuracy': 0.5279678068410463, 'precision': 0.4384260797109236, 'recall': 0.5279678068410463, 'f1_score': 0.41166236897319197}, 'main_class_2': {'accuracy': 0.6140845070422535, 'precision': 0.4568694676778549, 'recall': 0.6140845070422535, 'f1_score': 0.4999052450984887}, 'sub_class': {'accuracy': 0.530784708249497, 'precision': 0.3060757226886266, 'recall': 0.530784708249497, 'f1_score': 0.3882420621492001}}
+Epsilon: 0.53, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.32
+Training Duration: 238.78s
+Privacy-Performance Tradeoff: 0.89
+
+Epoch 9
+Train Loss: 3104.6890, Val Loss: 5.8569
+Avg Metrics: {'accuracy': 0.6913480885311871, 'precision': 0.6085879274402533, 'recall': 0.6913480885311871, 'f1_score': 0.6291955564605817}
+Task Metrics: {'super_class': {'accuracy': 0.8611670020120724, 'precision': 0.8408476352621223, 'recall': 0.8611670020120724, 'f1_score': 0.8433959085940662}, 'malignancy': {'accuracy': 0.9146881287726358, 'precision': 0.902009685975216, 'recall': 0.9146881287726358, 'f1_score': 0.9069623796572066}, 'main_class_1': {'accuracy': 0.5215291750503018, 'precision': 0.4811222721067595, 'recall': 0.5215291750503018, 'f1_score': 0.45142120536486735}, 'main_class_2': {'accuracy': 0.6289738430583501, 'precision': 0.4937022468021384, 'recall': 0.6289738430583501, 'f1_score': 0.5415534004062424}, 'sub_class': {'accuracy': 0.5303822937625755, 'precision': 0.3252577970550297, 'recall': 0.5303822937625755, 'f1_score': 0.40264488828052597}}
+Epsilon: 0.56, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.32
+Training Duration: 249.12s
+Privacy-Performance Tradeoff: 0.89
+
+Epoch 10
+Train Loss: 3018.9170, Val Loss: 6.2386
+Avg Metrics: {'accuracy': 0.6895774647887324, 'precision': 0.6013055906314648, 'recall': 0.6895774647887325, 'f1_score': 0.6184272293416271}
+Task Metrics: {'super_class': {'accuracy': 0.8647887323943662, 'precision': 0.848717798891425, 'recall': 0.8647887323943662, 'f1_score': 0.8318849040552038}, 'malignancy': {'accuracy': 0.9138832997987928, 'precision': 0.8965336927696856, 'recall': 0.9138832997987928, 'f1_score': 0.9003279032968903}, 'main_class_1': {'accuracy': 0.5275653923541247, 'precision': 0.43953089767386816, 'recall': 0.5275653923541247, 'f1_score': 0.43567270119344426}, 'main_class_2': {'accuracy': 0.6173038229376258, 'precision': 0.48418794647576363, 'recall': 0.6173038229376258, 'f1_score': 0.528729866673778}, 'sub_class': {'accuracy': 0.5243460764587525, 'precision': 0.33755761734658196, 'recall': 0.5243460764587525, 'f1_score': 0.3955207714888195}}
+Epsilon: 0.59, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.32
+Training Duration: 243.81s
+Privacy-Performance Tradeoff: 0.96
+
+Epoch 1
+Train Loss: 3604.3733, Val Loss: 9.1101
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.23, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.19
+Training Duration: 237.75s
+Privacy-Performance Tradeoff: 0.41
+
+Epoch 2
+Train Loss: 3718.9812, Val Loss: 6.5859
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.31, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.19
+Training Duration: 245.51s
+Privacy-Performance Tradeoff: 0.56
+
+Epoch 3
+Train Loss: 2876.2005, Val Loss: 6.9103
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.38, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.19
+Training Duration: 240.10s
+Privacy-Performance Tradeoff: 0.68
+
+Epoch 4
+Train Loss: 2757.0675, Val Loss: 6.8822
+Avg Metrics: {'accuracy': 0.6742857142857143, 'precision': 0.48777251425489754, 'recall': 0.6742857142857142, 'f1_score': 0.5552330791931306}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.49255533199195173, 'precision': 0.2703323557762667, 'recall': 0.49255533199195173, 'f1_score': 0.3280600882198812}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.44, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.19
+Training Duration: 244.66s
+Privacy-Performance Tradeoff: 0.79
+
+Epoch 5
+Train Loss: 2894.5004, Val Loss: 5.6997
+Avg Metrics: {'accuracy': 0.6788732394366197, 'precision': 0.5468570735778016, 'recall': 0.6788732394366197, 'f1_score': 0.5835515569764679}
+Task Metrics: {'super_class': {'accuracy': 0.8450704225352113, 'precision': 0.8303940937036973, 'recall': 0.8450704225352113, 'f1_score': 0.7756699564991065}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.5134808853118712, 'precision': 0.357920000797767, 'recall': 0.5134808853118712, 'f1_score': 0.39886784974314315}, 'main_class_2': {'accuracy': 0.5963782696177062, 'precision': 0.42072379376953073, 'recall': 0.5963782696177062, 'f1_score': 0.49252518051613814}, 'sub_class': {'accuracy': 0.5400402414486921, 'precision': 0.31633363437350787, 'recall': 0.5400402414486921, 'f1_score': 0.398935939889801}}
+Epsilon: 0.49, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.19
+Training Duration: 243.83s
+Privacy-Performance Tradeoff: 0.84
+
+Epoch 6
+Train Loss: 2753.2028, Val Loss: 5.6680
+Avg Metrics: {'accuracy': 0.6843460764587526, 'precision': 0.5908157448569902, 'recall': 0.6843460764587526, 'f1_score': 0.60852903644137}
+Task Metrics: {'super_class': {'accuracy': 0.854728370221328, 'precision': 0.8446452176882893, 'recall': 0.854728370221328, 'f1_score': 0.8029848622373005}, 'malignancy': {'accuracy': 0.9094567404426559, 'precision': 0.8916801768593158, 'recall': 0.9094567404426559, 'f1_score': 0.8813560912111775}, 'main_class_1': {'accuracy': 0.5319919517102616, 'precision': 0.3971969710568551, 'recall': 0.5319919517102616, 'f1_score': 0.44466621650486776}, 'main_class_2': {'accuracy': 0.5947686116700202, 'precision': 0.5038083402842035, 'recall': 0.5947686116700202, 'f1_score': 0.5170916702960107}, 'sub_class': {'accuracy': 0.530784708249497, 'precision': 0.316748018396287, 'recall': 0.530784708249497, 'f1_score': 0.3965463419574939}}
+Epsilon: 0.54, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.19
+Training Duration: 242.58s
+Privacy-Performance Tradeoff: 0.88
+
+Epoch 7
+Train Loss: 2770.4401, Val Loss: 6.6609
+Avg Metrics: {'accuracy': 0.6842655935613682, 'precision': 0.5919757842289203, 'recall': 0.6842655935613682, 'f1_score': 0.5914605496409959}
+Task Metrics: {'super_class': {'accuracy': 0.8507042253521127, 'precision': 0.852620681086482, 'recall': 0.8507042253521127, 'f1_score': 0.790060712566885}, 'malignancy': {'accuracy': 0.9070422535211268, 'precision': 0.8874330500306025, 'recall': 0.9070422535211268, 'f1_score': 0.8766293202462496}, 'main_class_1': {'accuracy': 0.5283702213279678, 'precision': 0.4557859691979844, 'recall': 0.5283702213279678, 'f1_score': 0.42632560131130987}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.45867146267083797, 'recall': 0.6028169014084507, 'f1_score': 0.47619809036404015}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.30536775815869466, 'recall': 0.532394366197183, 'f1_score': 0.3880890237164949}}
+Epsilon: 0.58, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.19
+Training Duration: 240.32s
+Privacy-Performance Tradeoff: 0.98
+
+Epoch 8
+Train Loss: 2787.1880, Val Loss: 5.8007
+Avg Metrics: {'accuracy': 0.6832193158953722, 'precision': 0.5991672451586599, 'recall': 0.6832193158953723, 'f1_score': 0.6135838045183254}
+Task Metrics: {'super_class': {'accuracy': 0.8611670020120724, 'precision': 0.8399674669148068, 'recall': 0.8611670020120724, 'f1_score': 0.8291503798628991}, 'malignancy': {'accuracy': 0.9098591549295775, 'precision': 0.8889864817130383, 'recall': 0.9098591549295775, 'f1_score': 0.8924439098588101}, 'main_class_1': {'accuracy': 0.5299798792756539, 'precision': 0.5159615007098753, 'recall': 0.5299798792756539, 'f1_score': 0.4510826200566376}, 'main_class_2': {'accuracy': 0.5915492957746479, 'precision': 0.42801442085580604, 'recall': 0.5915492957746479, 'f1_score': 0.49647004889741647}, 'sub_class': {'accuracy': 0.5235412474849095, 'precision': 0.3229063555997733, 'recall': 0.5235412474849095, 'f1_score': 0.3987720639158638}}
+Epsilon: 0.62, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.19
+Training Duration: 241.37s
+Privacy-Performance Tradeoff: 1.01
+
+Epoch 9
+Train Loss: 2789.0315, Val Loss: 5.9520
+Avg Metrics: {'accuracy': 0.6905432595573441, 'precision': 0.5934739343356195, 'recall': 0.690543259557344, 'f1_score': 0.6069754757140378}
+Task Metrics: {'super_class': {'accuracy': 0.8611670020120724, 'precision': 0.8419076004800685, 'recall': 0.8611670020120724, 'f1_score': 0.8259579491655704}, 'malignancy': {'accuracy': 0.9098591549295775, 'precision': 0.890005620237742, 'recall': 0.9098591549295775, 'f1_score': 0.8840103616238312}, 'main_class_1': {'accuracy': 0.5211267605633803, 'precision': 0.44067749598682976, 'recall': 0.5211267605633803, 'f1_score': 0.4128275207911969}, 'main_class_2': {'accuracy': 0.6289738430583501, 'precision': 0.4797071442987392, 'recall': 0.6289738430583501, 'f1_score': 0.5165036346141587}, 'sub_class': {'accuracy': 0.53158953722334, 'precision': 0.31507181067471807, 'recall': 0.53158953722334, 'f1_score': 0.39557791237543166}}
+Epsilon: 0.66, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.19
+Training Duration: 241.04s
+Privacy-Performance Tradeoff: 1.08
+
+Epoch 10
+Train Loss: 2800.5731, Val Loss: 5.5807
+Avg Metrics: {'accuracy': 0.6958551307847083, 'precision': 0.616122727713476, 'recall': 0.6958551307847083, 'f1_score': 0.6293247704836497}
+Task Metrics: {'super_class': {'accuracy': 0.8595573440643863, 'precision': 0.8360653402799789, 'recall': 0.8595573440643863, 'f1_score': 0.8298199477973414}, 'malignancy': {'accuracy': 0.9146881287726358, 'precision': 0.903760276710221, 'recall': 0.9146881287726358, 'f1_score': 0.9084407611799157}, 'main_class_1': {'accuracy': 0.5488933601609658, 'precision': 0.46068608414676315, 'recall': 0.5488933601609658, 'f1_score': 0.4694917657987381}, 'main_class_2': {'accuracy': 0.6225352112676056, 'precision': 0.4841372802535626, 'recall': 0.6225352112676056, 'f1_score': 0.5348727922449217}, 'sub_class': {'accuracy': 0.5336016096579477, 'precision': 0.3959646571768542, 'recall': 0.5336016096579477, 'f1_score': 0.4039985853973314}}
+Epsilon: 0.69, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.19
+Training Duration: 243.78s
+Privacy-Performance Tradeoff: 1.10
+
+Epoch 1
+Train Loss: 3323.5872, Val Loss: 7.3523
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.27, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.10
+Training Duration: 240.79s
+Privacy-Performance Tradeoff: 0.48
+
+Epoch 2
+Train Loss: 3761.0799, Val Loss: 8.9185
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.36, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.10
+Training Duration: 238.59s
+Privacy-Performance Tradeoff: 0.65
+
+Epoch 3
+Train Loss: 3041.5008, Val Loss: 5.6791
+Avg Metrics: {'accuracy': 0.6749295774647888, 'precision': 0.49921622247306024, 'recall': 0.6749295774647888, 'f1_score': 0.556867240074044}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.49577464788732395, 'precision': 0.3275508968670805, 'recall': 0.49577464788732395, 'f1_score': 0.33623089262444794}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.44, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.10
+Training Duration: 241.44s
+Privacy-Performance Tradeoff: 0.79
+
+Epoch 4
+Train Loss: 2772.6574, Val Loss: 5.2291
+Avg Metrics: {'accuracy': 0.6827364185110664, 'precision': 0.5462784886147194, 'recall': 0.6827364185110664, 'f1_score': 0.593416793477502}
+Task Metrics: {'super_class': {'accuracy': 0.8434607645875252, 'precision': 0.7897586010458798, 'recall': 0.8434607645875252, 'f1_score': 0.783906951446141}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.5227364185110664, 'precision': 0.4148099615701181, 'recall': 0.5227364185110664, 'f1_score': 0.4623395539789501}, 'main_class_2': {'accuracy': 0.6080482897384306, 'precision': 0.40383812564930993, 'recall': 0.6080482897384306, 'f1_score': 0.4719168849573012}, 'sub_class': {'accuracy': 0.5400402414486921, 'precision': 0.31407190956378356, 'recall': 0.5400402414486921, 'f1_score': 0.3971617187709665}}
+Epsilon: 0.50, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.10
+Training Duration: 239.20s
+Privacy-Performance Tradeoff: 0.85
+
+Epoch 5
+Train Loss: 2718.7666, Val Loss: 5.1916
+Avg Metrics: {'accuracy': 0.680241448692153, 'precision': 0.5722257121759423, 'recall': 0.680241448692153, 'f1_score': 0.6038081937765508}
+Task Metrics: {'super_class': {'accuracy': 0.8446680080482898, 'precision': 0.8027668837886074, 'recall': 0.8446680080482898, 'f1_score': 0.7762112538923148}, 'malignancy': {'accuracy': 0.9050301810865191, 'precision': 0.8813574568711288, 'recall': 0.9050301810865191, 'f1_score': 0.8737146045786276}, 'main_class_1': {'accuracy': 0.5191146881287726, 'precision': 0.4187494783604331, 'recall': 0.5191146881287726, 'f1_score': 0.46354399313754374}, 'main_class_2': {'accuracy': 0.5943661971830986, 'precision': 0.4339430634310139, 'recall': 0.5943661971830986, 'f1_score': 0.5015135725413455}, 'sub_class': {'accuracy': 0.5380281690140845, 'precision': 0.3243116784285281, 'recall': 0.5380281690140845, 'f1_score': 0.40405754473292227}}
+Epsilon: 0.56, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.10
+Training Duration: 241.27s
+Privacy-Performance Tradeoff: 0.93
+
+Epoch 6
+Train Loss: 2782.9032, Val Loss: 6.0653
+Avg Metrics: {'accuracy': 0.6825754527162978, 'precision': 0.5826857330771389, 'recall': 0.6825754527162978, 'f1_score': 0.5848007432272828}
+Task Metrics: {'super_class': {'accuracy': 0.8519114688128773, 'precision': 0.8483656855205137, 'recall': 0.8519114688128773, 'f1_score': 0.7940114658424519}, 'malignancy': {'accuracy': 0.9042253521126761, 'precision': 0.8886320469600908, 'recall': 0.9042253521126761, 'f1_score': 0.8663619006503902}, 'main_class_1': {'accuracy': 0.5138832997987928, 'precision': 0.4096482594224583, 'recall': 0.5138832997987928, 'f1_score': 0.40814462138799035}, 'main_class_2': {'accuracy': 0.6104627766599597, 'precision': 0.47474433899193597, 'recall': 0.6104627766599597, 'f1_score': 0.4795519934302982}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2920383344906957, 'recall': 0.532394366197183, 'f1_score': 0.37593373482528336}}
+Epsilon: 0.61, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.10
+Training Duration: 240.53s
+Privacy-Performance Tradeoff: 1.05
+
+Epoch 7
+Train Loss: 2769.9529, Val Loss: 6.1469
+Avg Metrics: {'accuracy': 0.6798390342052314, 'precision': 0.5845019407404907, 'recall': 0.6798390342052314, 'f1_score': 0.6149694176069957}
+Task Metrics: {'super_class': {'accuracy': 0.8382293762575452, 'precision': 0.821327736755461, 'recall': 0.8382293762575452, 'f1_score': 0.8278717090818526}, 'malignancy': {'accuracy': 0.90261569416499, 'precision': 0.8747402436018301, 'recall': 0.90261569416499, 'f1_score': 0.8787022550388538}, 'main_class_1': {'accuracy': 0.5259557344064386, 'precision': 0.42678113213695124, 'recall': 0.5259557344064386, 'f1_score': 0.44068304632492045}, 'main_class_2': {'accuracy': 0.6080482897384306, 'precision': 0.47856564088769066, 'recall': 0.6080482897384306, 'f1_score': 0.5297874268774752}, 'sub_class': {'accuracy': 0.5243460764587525, 'precision': 0.32109495032052027, 'recall': 0.5243460764587525, 'f1_score': 0.3978026507118769}}
+Epsilon: 0.66, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.10
+Training Duration: 240.87s
+Privacy-Performance Tradeoff: 1.08
+
+Epoch 8
+Train Loss: 2695.0344, Val Loss: 5.6160
+Avg Metrics: {'accuracy': 0.668169014084507, 'precision': 0.6026871638255371, 'recall': 0.668169014084507, 'f1_score': 0.6243216809139087}
+Task Metrics: {'super_class': {'accuracy': 0.8354124748490945, 'precision': 0.8300786787528704, 'recall': 0.8354124748490945, 'f1_score': 0.8325824796559811}, 'malignancy': {'accuracy': 0.8873239436619719, 'precision': 0.8762338214137197, 'recall': 0.8873239436619719, 'f1_score': 0.8814752451737151}, 'main_class_1': {'accuracy': 0.5344064386317907, 'precision': 0.45706439967911106, 'recall': 0.5344064386317907, 'f1_score': 0.47745993161236205}, 'main_class_2': {'accuracy': 0.564989939637827, 'precision': 0.4880201643932388, 'recall': 0.564989939637827, 'f1_score': 0.5110292711301362}, 'sub_class': {'accuracy': 0.5187122736418511, 'precision': 0.36203875488874526, 'recall': 0.5187122736418511, 'f1_score': 0.4190614769973493}}
+Epsilon: 0.71, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.10
+Training Duration: 239.57s
+Privacy-Performance Tradeoff: 1.14
+
+Epoch 9
+Train Loss: 2735.1633, Val Loss: 5.7800
+Avg Metrics: {'accuracy': 0.6746076458752516, 'precision': 0.5891888677604749, 'recall': 0.6746076458752516, 'f1_score': 0.6159155421184599}
+Task Metrics: {'super_class': {'accuracy': 0.8519114688128773, 'precision': 0.8264908767350493, 'recall': 0.8519114688128773, 'f1_score': 0.8307243530727354}, 'malignancy': {'accuracy': 0.889738430583501, 'precision': 0.8828157618276028, 'recall': 0.889738430583501, 'f1_score': 0.886213554967178}, 'main_class_1': {'accuracy': 0.5287726358148893, 'precision': 0.4714152581134119, 'recall': 0.5287726358148893, 'f1_score': 0.46029272528458826}, 'main_class_2': {'accuracy': 0.5843058350100604, 'precision': 0.4301006986653031, 'recall': 0.5843058350100604, 'f1_score': 0.49543362215959363}, 'sub_class': {'accuracy': 0.5183098591549296, 'precision': 0.3351217434610074, 'recall': 0.5183098591549296, 'f1_score': 0.406913455108204}}
+Epsilon: 0.75, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.10
+Training Duration: 238.98s
+Privacy-Performance Tradeoff: 1.22
+
+Epoch 10
+Train Loss: 2728.9211, Val Loss: 5.8727
+Avg Metrics: {'accuracy': 0.6859557344064386, 'precision': 0.6001916830006447, 'recall': 0.6859557344064386, 'f1_score': 0.6148787470539959}
+Task Metrics: {'super_class': {'accuracy': 0.8531187122736419, 'precision': 0.8326517448307009, 'recall': 0.8531187122736419, 'f1_score': 0.8030633410912436}, 'malignancy': {'accuracy': 0.9074446680080482, 'precision': 0.8844984428253906, 'recall': 0.9074446680080482, 'f1_score': 0.8821622367674651}, 'main_class_1': {'accuracy': 0.5319919517102616, 'precision': 0.4663540131369107, 'recall': 0.5319919517102616, 'f1_score': 0.45912935051549547}, 'main_class_2': {'accuracy': 0.612877263581489, 'precision': 0.4838322464691103, 'recall': 0.612877263581489, 'f1_score': 0.5260816416866183}, 'sub_class': {'accuracy': 0.5243460764587525, 'precision': 0.3336219677411109, 'recall': 0.5243460764587525, 'f1_score': 0.4039571652091574}}
+Epsilon: 0.80, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.10
+Training Duration: 242.34s
+Privacy-Performance Tradeoff: 1.29
+
+Epoch 1
+Train Loss: 3540.9001, Val Loss: 7.5576
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.31, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.03
+Training Duration: 240.43s
+Privacy-Performance Tradeoff: 0.56
+
+Epoch 2
+Train Loss: 4122.9404, Val Loss: 9.0830
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.41, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.03
+Training Duration: 241.73s
+Privacy-Performance Tradeoff: 0.75
+
+Epoch 3
+Train Loss: 3811.2255, Val Loss: 7.7812
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.50, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.03
+Training Duration: 236.61s
+Privacy-Performance Tradeoff: 0.90
+
+Epoch 4
+Train Loss: 3000.7150, Val Loss: 6.6694
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.57, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.03
+Training Duration: 240.39s
+Privacy-Performance Tradeoff: 1.03
+
+Epoch 5
+Train Loss: 2943.4623, Val Loss: 5.7586
+Avg Metrics: {'accuracy': 0.686599597585513, 'precision': 0.5771691064766278, 'recall': 0.686599597585513, 'f1_score': 0.5947536965708273}
+Task Metrics: {'super_class': {'accuracy': 0.8498993963782696, 'precision': 0.8630625490488496, 'recall': 0.8498993963782696, 'f1_score': 0.7869051309849314}, 'malignancy': {'accuracy': 0.903420523138833, 'precision': 0.881124882368947, 'recall': 0.903420523138833, 'f1_score': 0.8664766132145106}, 'main_class_1': {'accuracy': 0.5283702213279678, 'precision': 0.38902662356433126, 'recall': 0.5283702213279678, 'f1_score': 0.4369486158998026}, 'main_class_2': {'accuracy': 0.612877263581489, 'precision': 0.4395571973022981, 'recall': 0.612877263581489, 'f1_score': 0.4903509393067808}, 'sub_class': {'accuracy': 0.538430583501006, 'precision': 0.3130742800987126, 'recall': 0.538430583501006, 'f1_score': 0.3930871834481115}}
+Epsilon: 0.63, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.03
+Training Duration: 243.97s
+Privacy-Performance Tradeoff: 1.06
+
+Epoch 6
+Train Loss: 2744.7243, Val Loss: 5.8717
+Avg Metrics: {'accuracy': 0.7019718309859154, 'precision': 0.6082669814196099, 'recall': 0.7019718309859154, 'f1_score': 0.6281816522386329}
+Task Metrics: {'super_class': {'accuracy': 0.8651911468812877, 'precision': 0.847616858420553, 'recall': 0.8651911468812877, 'f1_score': 0.8348448408845984}, 'malignancy': {'accuracy': 0.9150905432595573, 'precision': 0.9002655535533, 'recall': 0.9150905432595573, 'f1_score': 0.8924700481212828}, 'main_class_1': {'accuracy': 0.5533199195171026, 'precision': 0.4699056849655185, 'recall': 0.5533199195171026, 'f1_score': 0.4692837250821642}, 'main_class_2': {'accuracy': 0.6422535211267606, 'precision': 0.5067269296138056, 'recall': 0.6422535211267606, 'f1_score': 0.547362076549104}, 'sub_class': {'accuracy': 0.5340040241448692, 'precision': 0.31681988054487276, 'recall': 0.5340040241448692, 'f1_score': 0.3969475705560155}}
+Epsilon: 0.69, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.03
+Training Duration: 241.11s
+Privacy-Performance Tradeoff: 1.10
+
+Epoch 7
+Train Loss: 2851.5167, Val Loss: 6.2702
+Avg Metrics: {'accuracy': 0.6882897384305835, 'precision': 0.5975999649245228, 'recall': 0.6882897384305835, 'f1_score': 0.6047036250459967}
+Task Metrics: {'super_class': {'accuracy': 0.8696177062374245, 'precision': 0.8525171404603168, 'recall': 0.8696177062374245, 'f1_score': 0.8466753163300468}, 'malignancy': {'accuracy': 0.9130784708249498, 'precision': 0.8980338956391806, 'recall': 0.9130784708249498, 'f1_score': 0.8884467324247473}, 'main_class_1': {'accuracy': 0.5223340040241449, 'precision': 0.46899099195658206, 'recall': 0.5223340040241449, 'f1_score': 0.4183188805376424}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.46395319800316714, 'recall': 0.6028169014084507, 'f1_score': 0.485273192291479}, 'sub_class': {'accuracy': 0.5336016096579477, 'precision': 0.30450459856336737, 'recall': 0.5336016096579477, 'f1_score': 0.38480400364606765}}
+Epsilon: 0.75, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.03
+Training Duration: 241.86s
+Privacy-Performance Tradeoff: 1.23
+
+Epoch 8
+Train Loss: 2810.9036, Val Loss: 6.5768
+Avg Metrics: {'accuracy': 0.689979879275654, 'precision': 0.6000198679335028, 'recall': 0.689979879275654, 'f1_score': 0.6068708664290041}
+Task Metrics: {'super_class': {'accuracy': 0.86841046277666, 'precision': 0.8583242760791194, 'recall': 0.86841046277666, 'f1_score': 0.8350384039917145}, 'malignancy': {'accuracy': 0.9106639839034205, 'precision': 0.8900262908931202, 'recall': 0.9106639839034205, 'f1_score': 0.890570934849085}, 'main_class_1': {'accuracy': 0.5195171026156942, 'precision': 0.43574108333623507, 'recall': 0.5195171026156942, 'f1_score': 0.407305422000165}, 'main_class_2': {'accuracy': 0.6193158953722334, 'precision': 0.5064400754539284, 'recall': 0.6193158953722334, 'f1_score': 0.5120398870932125}, 'sub_class': {'accuracy': 0.5319919517102616, 'precision': 0.30956761390511095, 'recall': 0.5319919517102616, 'f1_score': 0.389399684210844}}
+Epsilon: 0.80, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.03
+Training Duration: 239.20s
+Privacy-Performance Tradeoff: 1.31
+
+Epoch 9
+Train Loss: 2871.5973, Val Loss: 6.1808
+Avg Metrics: {'accuracy': 0.6952917505030181, 'precision': 0.6035295605510095, 'recall': 0.6952917505030182, 'f1_score': 0.6222876087577748}
+Task Metrics: {'super_class': {'accuracy': 0.862374245472837, 'precision': 0.84381091531085, 'recall': 0.862374245472837, 'f1_score': 0.8284839367909941}, 'malignancy': {'accuracy': 0.9162977867203219, 'precision': 0.8999057547761486, 'recall': 0.9162977867203219, 'f1_score': 0.9034079667204195}, 'main_class_1': {'accuracy': 0.5327967806841046, 'precision': 0.45718476711051614, 'recall': 0.5327967806841046, 'f1_score': 0.44902204331955703}, 'main_class_2': {'accuracy': 0.6293762575452716, 'precision': 0.4903660081765755, 'recall': 0.6293762575452716, 'f1_score': 0.532696572096422}, 'sub_class': {'accuracy': 0.5356136820925553, 'precision': 0.3263803573809574, 'recall': 0.5356136820925553, 'f1_score': 0.3978275248614818}}
+Epsilon: 0.85, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.03
+Training Duration: 241.53s
+Privacy-Performance Tradeoff: 1.36
+
+Epoch 10
+Train Loss: 2765.4549, Val Loss: 6.1344
+Avg Metrics: {'accuracy': 0.6981891348088531, 'precision': 0.6194404676001304, 'recall': 0.698189134808853, 'f1_score': 0.6253005491753375}
+Task Metrics: {'super_class': {'accuracy': 0.8635814889336016, 'precision': 0.8522484014719028, 'recall': 0.8635814889336016, 'f1_score': 0.8251827249428306}, 'malignancy': {'accuracy': 0.9219315895372233, 'precision': 0.9099379631410439, 'recall': 0.9219315895372233, 'f1_score': 0.9045059884251524}, 'main_class_1': {'accuracy': 0.5255533199195171, 'precision': 0.4775875799772394, 'recall': 0.5255533199195171, 'f1_score': 0.43706077213771694}, 'main_class_2': {'accuracy': 0.6370221327967807, 'precision': 0.5044106641297539, 'recall': 0.6370221327967807, 'f1_score': 0.5454856983615132}, 'sub_class': {'accuracy': 0.5428571428571428, 'precision': 0.35301772928071223, 'recall': 0.5428571428571428, 'f1_score': 0.4142675620094741}}
+Epsilon: 0.89, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 1.03
+Training Duration: 240.27s
+Privacy-Performance Tradeoff: 1.43
+
+Epoch 1
+Train Loss: 3654.2457, Val Loss: 9.2134
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.36, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.98
+Training Duration: 238.66s
+Privacy-Performance Tradeoff: 0.64
+
+Epoch 2
+Train Loss: 3523.2540, Val Loss: 8.0122
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.47, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.98
+Training Duration: 238.03s
+Privacy-Performance Tradeoff: 0.85
+
+Epoch 3
+Train Loss: 3166.0612, Val Loss: 6.8704
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.56, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.98
+Training Duration: 241.92s
+Privacy-Performance Tradeoff: 1.01
+
+Epoch 4
+Train Loss: 2678.6040, Val Loss: 5.8021
+Avg Metrics: {'accuracy': 0.6759758551307847, 'precision': 0.5041647748619031, 'recall': 0.6759758551307847, 'f1_score': 0.5628922644550289}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.5006036217303823, 'precision': 0.322018800404286, 'recall': 0.5006036217303823, 'f1_score': 0.3632718246802754}, 'main_class_2': {'accuracy': 0.6032193158953723, 'precision': 0.3928623864398513, 'recall': 0.6032193158953723, 'f1_score': 0.45583987472718024}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2842444497493435, 'recall': 0.532394366197183, 'f1_score': 0.370617072601354}}
+Epsilon: 0.64, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.98
+Training Duration: 239.94s
+Privacy-Performance Tradeoff: 1.13
+
+Epoch 5
+Train Loss: 2777.8675, Val Loss: 6.4753
+Avg Metrics: {'accuracy': 0.6834607645875252, 'precision': 0.5718559276497379, 'recall': 0.683460764587525, 'f1_score': 0.5941534347033054}
+Task Metrics: {'super_class': {'accuracy': 0.856338028169014, 'precision': 0.8343278676759971, 'recall': 0.856338028169014, 'f1_score': 0.8144923766035782}, 'malignancy': {'accuracy': 0.9014084507042254, 'precision': 0.8932734421054168, 'recall': 0.9014084507042254, 'f1_score': 0.857333833933098}, 'main_class_1': {'accuracy': 0.5066398390342053, 'precision': 0.34956587298969455, 'recall': 0.5066398390342053, 'f1_score': 0.39253971686089095}, 'main_class_2': {'accuracy': 0.6233400402414487, 'precision': 0.47950888210421666, 'recall': 0.6233400402414487, 'f1_score': 0.5213066691929865}, 'sub_class': {'accuracy': 0.5295774647887324, 'precision': 0.3026035733733645, 'recall': 0.5295774647887324, 'f1_score': 0.38509457692597343}}
+Epsilon: 0.71, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.98
+Training Duration: 239.40s
+Privacy-Performance Tradeoff: 1.19
+
+Epoch 6
+Train Loss: 2957.5455, Val Loss: 5.9460
+Avg Metrics: {'accuracy': 0.6916700201207243, 'precision': 0.5956391252218163, 'recall': 0.6916700201207243, 'f1_score': 0.6196367517264827}
+Task Metrics: {'super_class': {'accuracy': 0.8627766599597585, 'precision': 0.8415183865505668, 'recall': 0.8627766599597585, 'f1_score': 0.8361636946734122}, 'malignancy': {'accuracy': 0.9110663983903421, 'precision': 0.8980420878543605, 'recall': 0.9110663983903421, 'f1_score': 0.8828910036971992}, 'main_class_1': {'accuracy': 0.53158953722334, 'precision': 0.4723531898573596, 'recall': 0.53158953722334, 'f1_score': 0.461344682082952}, 'main_class_2': {'accuracy': 0.6253521126760564, 'precision': 0.44826534205231383, 'recall': 0.6253521126760564, 'f1_score': 0.5221737511056825}, 'sub_class': {'accuracy': 0.5275653923541247, 'precision': 0.31801661979448054, 'recall': 0.5275653923541247, 'f1_score': 0.3956106270731676}}
+Epsilon: 0.77, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.98
+Training Duration: 242.39s
+Privacy-Performance Tradeoff: 1.25
+
+Epoch 7
+Train Loss: 2878.1285, Val Loss: 6.4850
+Avg Metrics: {'accuracy': 0.6904627766599598, 'precision': 0.6042066522799037, 'recall': 0.6904627766599597, 'f1_score': 0.6103374733599198}
+Task Metrics: {'super_class': {'accuracy': 0.8647887323943662, 'precision': 0.8471881743778381, 'recall': 0.8647887323943662, 'f1_score': 0.8337946433547208}, 'malignancy': {'accuracy': 0.9102615694164989, 'precision': 0.8938994013402239, 'recall': 0.9102615694164989, 'f1_score': 0.8824024474411197}, 'main_class_1': {'accuracy': 0.5287726358148893, 'precision': 0.4599834094804965, 'recall': 0.5287726358148893, 'f1_score': 0.42495055070075455}, 'main_class_2': {'accuracy': 0.620523138832998, 'precision': 0.5015688427437202, 'recall': 0.620523138832998, 'f1_score': 0.5196335184425657}, 'sub_class': {'accuracy': 0.5279678068410463, 'precision': 0.3183934334572393, 'recall': 0.5279678068410463, 'f1_score': 0.3909062068604385}}
+Epsilon: 0.83, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.98
+Training Duration: 244.51s
+Privacy-Performance Tradeoff: 1.36
+
+Epoch 8
+Train Loss: 2896.4625, Val Loss: 7.0018
+Avg Metrics: {'accuracy': 0.6885311871227364, 'precision': 0.612854084879162, 'recall': 0.6885311871227364, 'f1_score': 0.6028805431712367}
+Task Metrics: {'super_class': {'accuracy': 0.8611670020120724, 'precision': 0.8407920050213153, 'recall': 0.8611670020120724, 'f1_score': 0.8275817248750522}, 'malignancy': {'accuracy': 0.9042253521126761, 'precision': 0.8841883496098543, 'recall': 0.9042253521126761, 'f1_score': 0.8671105926876975}, 'main_class_1': {'accuracy': 0.5207243460764588, 'precision': 0.4351268282776563, 'recall': 0.5207243460764588, 'f1_score': 0.4164473218984567}, 'main_class_2': {'accuracy': 0.6293762575452716, 'precision': 0.4975061120648498, 'recall': 0.6293762575452716, 'f1_score': 0.5124228993771472}, 'sub_class': {'accuracy': 0.5271629778672032, 'precision': 0.4066571294221342, 'recall': 0.5271629778672032, 'f1_score': 0.3908401770178299}}
+Epsilon: 0.89, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.98
+Training Duration: 241.85s
+Privacy-Performance Tradeoff: 1.47
+
+Epoch 9
+Train Loss: 2836.5631, Val Loss: 5.8352
+Avg Metrics: {'accuracy': 0.6962575452716298, 'precision': 0.6109506935268089, 'recall': 0.6962575452716298, 'f1_score': 0.6346463968084447}
+Task Metrics: {'super_class': {'accuracy': 0.8655935613682093, 'precision': 0.8460279215278282, 'recall': 0.8655935613682093, 'f1_score': 0.8446576684990325}, 'malignancy': {'accuracy': 0.9207243460764587, 'precision': 0.9070245440130669, 'recall': 0.9207243460764587, 'f1_score': 0.9035781611114813}, 'main_class_1': {'accuracy': 0.5448692152917505, 'precision': 0.48043544684152034, 'recall': 0.5448692152917505, 'f1_score': 0.488441920675717}, 'main_class_2': {'accuracy': 0.607645875251509, 'precision': 0.48696596198766207, 'recall': 0.607645875251509, 'f1_score': 0.5319713878279606}, 'sub_class': {'accuracy': 0.5424547283702214, 'precision': 0.3342995932639672, 'recall': 0.5424547283702214, 'f1_score': 0.40458284592803245}}
+Epsilon: 0.94, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.98
+Training Duration: 241.00s
+Privacy-Performance Tradeoff: 1.48
+
+Epoch 10
+Train Loss: 2917.6363, Val Loss: 6.2707
+Avg Metrics: {'accuracy': 0.6997183098591548, 'precision': 0.6042637072096508, 'recall': 0.699718309859155, 'f1_score': 0.6251146079274471}
+Task Metrics: {'super_class': {'accuracy': 0.862374245472837, 'precision': 0.8524450066456166, 'recall': 0.862374245472837, 'f1_score': 0.8215984492782168}, 'malignancy': {'accuracy': 0.9227364185110664, 'precision': 0.9088644920003371, 'recall': 0.9227364185110664, 'f1_score': 0.9109438008813374}, 'main_class_1': {'accuracy': 0.5432595573440644, 'precision': 0.4546198352359226, 'recall': 0.5432595573440644, 'f1_score': 0.46069202644353513}, 'main_class_2': {'accuracy': 0.6338028169014085, 'precision': 0.44997499059482693, 'recall': 0.6338028169014085, 'f1_score': 0.5255829715776057}, 'sub_class': {'accuracy': 0.5364185110663984, 'precision': 0.3554142115715508, 'recall': 0.5364185110663984, 'f1_score': 0.4067557914565403}}
+Epsilon: 0.99, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.98
+Training Duration: 242.41s
+Privacy-Performance Tradeoff: 1.58
+
+Epoch 1
+Train Loss: 3823.5918, Val Loss: 9.8999
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.66, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.82
+Training Duration: 241.44s
+Privacy-Performance Tradeoff: 1.20
+
+Epoch 2
+Train Loss: 3754.3567, Val Loss: 6.5582
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.82, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.82
+Training Duration: 243.96s
+Privacy-Performance Tradeoff: 1.47
+
+Epoch 3
+Train Loss: 3198.8333, Val Loss: 5.3472
+Avg Metrics: {'accuracy': 0.6818511066398389, 'precision': 0.5260184121065116, 'recall': 0.6818511066398389, 'f1_score': 0.578583448749438}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.5235412474849095, 'precision': 0.3751244257540335, 'recall': 0.5235412474849095, 'f1_score': 0.41857873309903076}, 'main_class_2': {'accuracy': 0.6096579476861167, 'precision': 0.4498256359039897, 'recall': 0.6096579476861167, 'f1_score': 0.4796701691639288}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 0.93, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.82
+Training Duration: 245.99s
+Privacy-Performance Tradeoff: 1.61
+
+Epoch 4
+Train Loss: 2800.3456, Val Loss: 6.4519
+Avg Metrics: {'accuracy': 0.6821730382293762, 'precision': 0.5660913005233523, 'recall': 0.6821730382293762, 'f1_score': 0.5880227380472111}
+Task Metrics: {'super_class': {'accuracy': 0.8575452716297787, 'precision': 0.8739072804171971, 'recall': 0.8575452716297787, 'f1_score': 0.8036456330047209}, 'malignancy': {'accuracy': 0.9058350100603622, 'precision': 0.891503600356719, 'recall': 0.9058350100603622, 'f1_score': 0.8703909752180525}, 'main_class_1': {'accuracy': 0.5150905432595574, 'precision': 0.35890434042023994, 'recall': 0.5150905432595574, 'f1_score': 0.40057844882820903}, 'main_class_2': {'accuracy': 0.600804828973843, 'precision': 0.4071266127772051, 'recall': 0.600804828973843, 'f1_score': 0.4828777283576143}, 'sub_class': {'accuracy': 0.53158953722334, 'precision': 0.29901466864540005, 'recall': 0.53158953722334, 'f1_score': 0.38262090482745803}}
+Epsilon: 1.03, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.82
+Training Duration: 239.50s
+Privacy-Performance Tradeoff: 1.76
+
+Epoch 5
+Train Loss: 2908.3015, Val Loss: 6.7637
+Avg Metrics: {'accuracy': 0.690784708249497, 'precision': 0.6215783403097184, 'recall': 0.6907847082494969, 'f1_score': 0.6078893090029637}
+Task Metrics: {'super_class': {'accuracy': 0.8579476861167002, 'precision': 0.8428405630470192, 'recall': 0.8579476861167002, 'f1_score': 0.8136690748303457}, 'malignancy': {'accuracy': 0.9130784708249498, 'precision': 0.8975688076328281, 'recall': 0.9130784708249498, 'f1_score': 0.8888604991927938}, 'main_class_1': {'accuracy': 0.5195171026156942, 'precision': 0.4891360752818801, 'recall': 0.5195171026156942, 'f1_score': 0.41861486548673715}, 'main_class_2': {'accuracy': 0.63420523138833, 'precision': 0.5653940993568239, 'recall': 0.63420523138833, 'f1_score': 0.5250328753121228}, 'sub_class': {'accuracy': 0.5291750503018109, 'precision': 0.31295215623004036, 'recall': 0.5291750503018109, 'f1_score': 0.39326923019281895}}
+Epsilon: 1.12, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.82
+Training Duration: 245.07s
+Privacy-Performance Tradeoff: 1.85
+
+Epoch 6
+Train Loss: 2727.7327, Val Loss: 5.8646
+Avg Metrics: {'accuracy': 0.6984305835010061, 'precision': 0.6168938833830513, 'recall': 0.6984305835010061, 'f1_score': 0.6322913526338647}
+Task Metrics: {'super_class': {'accuracy': 0.8647887323943662, 'precision': 0.8464884382696859, 'recall': 0.8647887323943662, 'f1_score': 0.8349020029471848}, 'malignancy': {'accuracy': 0.9110663983903421, 'precision': 0.8931194295213093, 'recall': 0.9110663983903421, 'f1_score': 0.8981725283639006}, 'main_class_1': {'accuracy': 0.5396378269617707, 'precision': 0.4821685737838955, 'recall': 0.5396378269617707, 'f1_score': 0.4728712805212196}, 'main_class_2': {'accuracy': 0.6386317907444669, 'precision': 0.516545145349992, 'recall': 0.6386317907444669, 'f1_score': 0.5480555216932729}, 'sub_class': {'accuracy': 0.5380281690140845, 'precision': 0.34614782999037386, 'recall': 0.5380281690140845, 'f1_score': 0.40745542964374587}}
+Epsilon: 1.21, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.82
+Training Duration: 240.41s
+Privacy-Performance Tradeoff: 1.91
+
+Epoch 7
+Train Loss: 2806.8233, Val Loss: 5.4674
+Avg Metrics: {'accuracy': 0.6921529175050302, 'precision': 0.6212139797583096, 'recall': 0.6921529175050302, 'f1_score': 0.6358341455443449}
+Task Metrics: {'super_class': {'accuracy': 0.8655935613682093, 'precision': 0.8466849905800852, 'recall': 0.8655935613682093, 'f1_score': 0.8386882047485216}, 'malignancy': {'accuracy': 0.9114688128772636, 'precision': 0.8930346758562986, 'recall': 0.9114688128772636, 'f1_score': 0.8976558688259795}, 'main_class_1': {'accuracy': 0.5344064386317907, 'precision': 0.48735065178252224, 'recall': 0.5344064386317907, 'f1_score': 0.4742017883838389}, 'main_class_2': {'accuracy': 0.6221327967806841, 'precision': 0.5076338901495506, 'recall': 0.6221327967806841, 'f1_score': 0.5450667605455852}, 'sub_class': {'accuracy': 0.5271629778672032, 'precision': 0.3713656904230912, 'recall': 0.5271629778672032, 'f1_score': 0.4235581052177999}}
+Epsilon: 1.28, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.82
+Training Duration: 243.72s
+Privacy-Performance Tradeoff: 2.02
+
+Epoch 8
+Train Loss: 2677.2044, Val Loss: 5.3890
+Avg Metrics: {'accuracy': 0.6911066398390342, 'precision': 0.6282564483961893, 'recall': 0.6911066398390342, 'f1_score': 0.6383778508819081}
+Task Metrics: {'super_class': {'accuracy': 0.856338028169014, 'precision': 0.8454358572644617, 'recall': 0.856338028169014, 'f1_score': 0.8496970142305029}, 'malignancy': {'accuracy': 0.8913480885311871, 'precision': 0.90746496254367, 'recall': 0.8913480885311871, 'f1_score': 0.897422850682061}, 'main_class_1': {'accuracy': 0.5509054325955735, 'precision': 0.4818874348849992, 'recall': 0.5509054325955735, 'f1_score': 0.4824416810886435}, 'main_class_2': {'accuracy': 0.6201207243460765, 'precision': 0.5365836686925857, 'recall': 0.6201207243460765, 'f1_score': 0.5330633452749143}, 'sub_class': {'accuracy': 0.53682092555332, 'precision': 0.36991031859523005, 'recall': 0.53682092555332, 'f1_score': 0.42926436313341904}}
+Epsilon: 1.36, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.82
+Training Duration: 238.21s
+Privacy-Performance Tradeoff: 2.13
+
+Epoch 9
+Train Loss: 2695.0009, Val Loss: 5.2899
+Avg Metrics: {'accuracy': 0.7076056338028169, 'precision': 0.6304733998080186, 'recall': 0.7076056338028169, 'f1_score': 0.6504975907230942}
+Task Metrics: {'super_class': {'accuracy': 0.8655935613682093, 'precision': 0.8579253359338123, 'recall': 0.8655935613682093, 'f1_score': 0.8610659890877335}, 'malignancy': {'accuracy': 0.9231388329979879, 'precision': 0.9114235506041831, 'recall': 0.9231388329979879, 'f1_score': 0.915631986954835}, 'main_class_1': {'accuracy': 0.5617706237424547, 'precision': 0.4878476813709979, 'recall': 0.5617706237424547, 'f1_score': 0.5016593829724859}, 'main_class_2': {'accuracy': 0.6382293762575453, 'precision': 0.5253236553225951, 'recall': 0.6382293762575453, 'f1_score': 0.547883990509956}, 'sub_class': {'accuracy': 0.5492957746478874, 'precision': 0.36984677580850506, 'recall': 0.5492957746478874, 'f1_score': 0.4262466040904608}}
+Epsilon: 1.43, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.82
+Training Duration: 238.48s
+Privacy-Performance Tradeoff: 2.19
+
+Epoch 10
+Train Loss: 2761.1570, Val Loss: 5.7567
+Avg Metrics: {'accuracy': 0.7059959758551309, 'precision': 0.6209745646931831, 'recall': 0.7059959758551309, 'f1_score': 0.6405928104294849}
+Task Metrics: {'super_class': {'accuracy': 0.8708249496981891, 'precision': 0.8539806321517727, 'recall': 0.8708249496981891, 'f1_score': 0.8530049832475808}, 'malignancy': {'accuracy': 0.9138832997987928, 'precision': 0.9025640599704176, 'recall': 0.9138832997987928, 'f1_score': 0.9074211613713525}, 'main_class_1': {'accuracy': 0.5505030181086519, 'precision': 0.4616527886855335, 'recall': 0.5505030181086519, 'f1_score': 0.4729822837570077}, 'main_class_2': {'accuracy': 0.6458752515090543, 'precision': 0.5379965171143822, 'recall': 0.6458752515090543, 'f1_score': 0.5436146447649428}, 'sub_class': {'accuracy': 0.5488933601609658, 'precision': 0.3486788255438102, 'recall': 0.5488933601609658, 'f1_score': 0.4259409790065413}}
+Epsilon: 1.50, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.82
+Training Duration: 241.67s
+Privacy-Performance Tradeoff: 2.33
+
+Epoch 1
+Train Loss: 3579.5211, Val Loss: 6.7944
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 1.00, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.75
+Training Duration: 240.35s
+Privacy-Performance Tradeoff: 1.80
+
+Epoch 2
+Train Loss: 3181.9388, Val Loss: 5.4502
+Avg Metrics: {'accuracy': 0.6758953722334005, 'precision': 0.49826014499471427, 'recall': 0.6758953722334005, 'f1_score': 0.5615877385405177}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.5006036217303823, 'precision': 0.32277050947535035, 'recall': 0.5006036217303823, 'f1_score': 0.35983338495681727}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 1.19, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.75
+Training Duration: 244.40s
+Privacy-Performance Tradeoff: 2.12
+
+Epoch 3
+Train Loss: 2658.8752, Val Loss: 6.4539
+Avg Metrics: {'accuracy': 0.678953722334004, 'precision': 0.5319970885110445, 'recall': 0.678953722334004, 'f1_score': 0.577204429952465}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.5118712273641851, 'precision': 0.35930700364728435, 'recall': 0.5118712273641851, 'f1_score': 0.3994331892980589}, 'main_class_2': {'accuracy': 0.6104627766599597, 'precision': 0.4775290426276144, 'recall': 0.6104627766599597, 'f1_score': 0.47791114741201013}, 'sub_class': {'accuracy': 0.5287726358148893, 'precision': 0.301451158564289, 'recall': 0.5287726358148893, 'f1_score': 0.38394526278592134}}
+Epsilon: 1.33, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.75
+Training Duration: 241.71s
+Privacy-Performance Tradeoff: 2.31
+
+Epoch 4
+Train Loss: 2676.4894, Val Loss: 5.7544
+Avg Metrics: {'accuracy': 0.6759758551307847, 'precision': 0.5914850267068916, 'recall': 0.6759758551307847, 'f1_score': 0.6071313429614581}
+Task Metrics: {'super_class': {'accuracy': 0.8519114688128773, 'precision': 0.8668351015182, 'recall': 0.8519114688128773, 'f1_score': 0.7914298281630885}, 'malignancy': {'accuracy': 0.9090543259557344, 'precision': 0.8987488288927796, 'recall': 0.9090543259557344, 'f1_score': 0.8769851653981025}, 'main_class_1': {'accuracy': 0.5171026156941649, 'precision': 0.4045904911096058, 'recall': 0.5171026156941649, 'f1_score': 0.4531633604467058}, 'main_class_2': {'accuracy': 0.5770623742454728, 'precision': 0.44710822227761543, 'recall': 0.5770623742454728, 'f1_score': 0.5034696253182851}, 'sub_class': {'accuracy': 0.524748490945674, 'precision': 0.34014248973625727, 'recall': 0.524748490945674, 'f1_score': 0.41060873548110866}}
+Epsilon: 1.45, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.75
+Training Duration: 241.29s
+Privacy-Performance Tradeoff: 2.39
+
+Epoch 5
+Train Loss: 2740.1530, Val Loss: 6.2573
+Avg Metrics: {'accuracy': 0.6901408450704226, 'precision': 0.6026496023728939, 'recall': 0.6901408450704226, 'f1_score': 0.6182123054752737}
+Task Metrics: {'super_class': {'accuracy': 0.8535211267605634, 'precision': 0.8295841232532248, 'recall': 0.8535211267605634, 'f1_score': 0.8337570784976089}, 'malignancy': {'accuracy': 0.9098591549295775, 'precision': 0.8892905683021196, 'recall': 0.9098591549295775, 'f1_score': 0.885297705497157}, 'main_class_1': {'accuracy': 0.5319919517102616, 'precision': 0.4611298649078856, 'recall': 0.5319919517102616, 'f1_score': 0.447168253376958}, 'main_class_2': {'accuracy': 0.6261569416498994, 'precision': 0.48295090875445235, 'recall': 0.6261569416498994, 'f1_score': 0.5284931459586455}, 'sub_class': {'accuracy': 0.5291750503018109, 'precision': 0.35029254664678716, 'recall': 0.5291750503018109, 'f1_score': 0.39634534404599936}}
+Epsilon: 1.56, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.75
+Training Duration: 244.01s
+Privacy-Performance Tradeoff: 2.52
+
+Epoch 6
+Train Loss: 2609.1463, Val Loss: 6.2028
+Avg Metrics: {'accuracy': 0.6900603621730382, 'precision': 0.6108385126477869, 'recall': 0.6900603621730382, 'f1_score': 0.6176877294126116}
+Task Metrics: {'super_class': {'accuracy': 0.860764587525151, 'precision': 0.8503574572220346, 'recall': 0.860764587525151, 'f1_score': 0.8180899336052952}, 'malignancy': {'accuracy': 0.9114688128772636, 'precision': 0.8952526604667114, 'recall': 0.9114688128772636, 'f1_score': 0.8847437077621704}, 'main_class_1': {'accuracy': 0.532394366197183, 'precision': 0.48980204678458705, 'recall': 0.532394366197183, 'f1_score': 0.4606369854904401}, 'main_class_2': {'accuracy': 0.6185110663983904, 'precision': 0.4826404846084928, 'recall': 0.6185110663983904, 'f1_score': 0.5216729934760094}, 'sub_class': {'accuracy': 0.5271629778672032, 'precision': 0.33613991415710887, 'recall': 0.5271629778672032, 'f1_score': 0.40329502672914336}}
+Epsilon: 1.65, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.75
+Training Duration: 239.22s
+Privacy-Performance Tradeoff: 2.68
+
+Epoch 7
+Train Loss: 2674.6123, Val Loss: 7.3918
+Avg Metrics: {'accuracy': 0.6841046277665995, 'precision': 0.5913847273050863, 'recall': 0.6841046277665995, 'f1_score': 0.5944576773797178}
+Task Metrics: {'super_class': {'accuracy': 0.8498993963782696, 'precision': 0.8413100095902518, 'recall': 0.8498993963782696, 'f1_score': 0.7895898028073787}, 'malignancy': {'accuracy': 0.9058350100603622, 'precision': 0.8907742449634977, 'recall': 0.9058350100603622, 'f1_score': 0.8699286278077586}, 'main_class_1': {'accuracy': 0.5158953722334004, 'precision': 0.44253102398751676, 'recall': 0.5158953722334004, 'f1_score': 0.4099220411714542}, 'main_class_2': {'accuracy': 0.6189134808853118, 'precision': 0.473522528078055, 'recall': 0.6189134808853118, 'f1_score': 0.5126336844320462}, 'sub_class': {'accuracy': 0.5299798792756539, 'precision': 0.3087858299061101, 'recall': 0.5299798792756539, 'f1_score': 0.39021423067995126}}
+Epsilon: 1.75, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.75
+Training Duration: 240.32s
+Privacy-Performance Tradeoff: 2.94
+
+Epoch 8
+Train Loss: 2761.9762, Val Loss: 6.2767
+Avg Metrics: {'accuracy': 0.696338028169014, 'precision': 0.6007903313681566, 'recall': 0.696338028169014, 'f1_score': 0.626258184337036}
+Task Metrics: {'super_class': {'accuracy': 0.8655935613682093, 'precision': 0.8460473534915998, 'recall': 0.8655935613682093, 'f1_score': 0.8413129936575218}, 'malignancy': {'accuracy': 0.9110663983903421, 'precision': 0.8922121869742311, 'recall': 0.9110663983903421, 'f1_score': 0.8967689599647851}, 'main_class_1': {'accuracy': 0.5372233400402414, 'precision': 0.43348819582407805, 'recall': 0.5372233400402414, 'f1_score': 0.4472154291435245}, 'main_class_2': {'accuracy': 0.635814889336016, 'precision': 0.4987090421897985, 'recall': 0.635814889336016, 'f1_score': 0.536974750530699}, 'sub_class': {'accuracy': 0.5319919517102616, 'precision': 0.33349487836107555, 'recall': 0.5319919517102616, 'f1_score': 0.40901878838864913}}
+Epsilon: 1.83, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.75
+Training Duration: 236.29s
+Privacy-Performance Tradeoff: 2.92
+
+Epoch 9
+Train Loss: 2653.8473, Val Loss: 6.2344
+Avg Metrics: {'accuracy': 0.7050301810865192, 'precision': 0.6252654213223081, 'recall': 0.7050301810865192, 'f1_score': 0.6376531017670505}
+Task Metrics: {'super_class': {'accuracy': 0.8696177062374245, 'precision': 0.8540735005516863, 'recall': 0.8696177062374245, 'f1_score': 0.8566538587305165}, 'malignancy': {'accuracy': 0.9122736418511066, 'precision': 0.9017032733755086, 'recall': 0.9122736418511066, 'f1_score': 0.9063776469604542}, 'main_class_1': {'accuracy': 0.5472837022132797, 'precision': 0.46647339868776355, 'recall': 0.5472837022132797, 'f1_score': 0.46004186486566206}, 'main_class_2': {'accuracy': 0.6442655935613683, 'precision': 0.537117599264525, 'recall': 0.6442655935613683, 'f1_score': 0.5449145852420537}, 'sub_class': {'accuracy': 0.5517102615694165, 'precision': 0.36695933473205783, 'recall': 0.5517102615694165, 'f1_score': 0.4202775530365661}}
+Epsilon: 1.91, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.75
+Training Duration: 238.99s
+Privacy-Performance Tradeoff: 3.00
+
+Epoch 10
+Train Loss: 2609.0511, Val Loss: 7.1347
+Avg Metrics: {'accuracy': 0.695774647887324, 'precision': 0.6026202623071247, 'recall': 0.695774647887324, 'f1_score': 0.6141674146782339}
+Task Metrics: {'super_class': {'accuracy': 0.8587525150905433, 'precision': 0.8423225878552771, 'recall': 0.8587525150905433, 'f1_score': 0.8166660137690559}, 'malignancy': {'accuracy': 0.9118712273641851, 'precision': 0.8924956757657342, 'recall': 0.9118712273641851, 'f1_score': 0.890385888840263}, 'main_class_1': {'accuracy': 0.5299798792756539, 'precision': 0.4276285229193437, 'recall': 0.5299798792756539, 'f1_score': 0.4355606790048815}, 'main_class_2': {'accuracy': 0.63420523138833, 'precision': 0.5045547954393025, 'recall': 0.63420523138833, 'f1_score': 0.5229329594327026}, 'sub_class': {'accuracy': 0.5440643863179074, 'precision': 0.34609972955596624, 'recall': 0.5440643863179074, 'f1_score': 0.40529153234426607}}
+Epsilon: 1.99, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.75
+Training Duration: 240.20s
+Privacy-Performance Tradeoff: 3.25
+
+Epoch 1
+Train Loss: 3712.8549, Val Loss: 6.7245
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 1.33, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.70
+Training Duration: 238.38s
+Privacy-Performance Tradeoff: 2.40
+
+Epoch 2
+Train Loss: 3188.4222, Val Loss: 7.3577
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 1.57, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.70
+Training Duration: 241.22s
+Privacy-Performance Tradeoff: 2.82
+
+Epoch 3
+Train Loss: 2825.7311, Val Loss: 5.7794
+Avg Metrics: {'accuracy': 0.6790342052313884, 'precision': 0.5781491432180577, 'recall': 0.6790342052313882, 'f1_score': 0.5969784297913201}
+Task Metrics: {'super_class': {'accuracy': 0.8507042253521127, 'precision': 0.8443897469970131, 'recall': 0.8507042253521127, 'f1_score': 0.7913686183858337}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.5243460764587525, 'precision': 0.39251919155556697, 'recall': 0.5243460764587525, 'f1_score': 0.4430391236075787}, 'main_class_2': {'accuracy': 0.600804828973843, 'precision': 0.5184055874343445, 'recall': 0.600804828973843, 'f1_score': 0.49760525379644527}, 'sub_class': {'accuracy': 0.5199195171026157, 'precision': 0.3265173448588588, 'recall': 0.5199195171026157, 'f1_score': 0.4011202949325919}}
+Epsilon: 1.73, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.70
+Training Duration: 240.28s
+Privacy-Performance Tradeoff: 2.90
+
+Epoch 4
+Train Loss: 2833.8718, Val Loss: 5.7608
+Avg Metrics: {'accuracy': 0.6913480885311871, 'precision': 0.5953087683361353, 'recall': 0.6913480885311871, 'f1_score': 0.6265572141558082}
+Task Metrics: {'super_class': {'accuracy': 0.8672032193158954, 'precision': 0.8527376280956587, 'recall': 0.8672032193158954, 'f1_score': 0.8360219757065064}, 'malignancy': {'accuracy': 0.9138832997987928, 'precision': 0.8964943820929736, 'recall': 0.9138832997987928, 'f1_score': 0.892673754123487}, 'main_class_1': {'accuracy': 0.5175050301810865, 'precision': 0.4010039781811678, 'recall': 0.5175050301810865, 'f1_score': 0.4502905035412288}, 'main_class_2': {'accuracy': 0.6293762575452716, 'precision': 0.504788599973174, 'recall': 0.6293762575452716, 'f1_score': 0.5542822944235715}, 'sub_class': {'accuracy': 0.5287726358148893, 'precision': 0.3215192533377023, 'recall': 0.5287726358148893, 'f1_score': 0.3995175429842478}}
+Epsilon: 1.87, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.70
+Training Duration: 243.06s
+Privacy-Performance Tradeoff: 2.99
+
+Epoch 5
+Train Loss: 2666.5364, Val Loss: 5.7119
+Avg Metrics: {'accuracy': 0.6870020120724346, 'precision': 0.6143322193751783, 'recall': 0.6870020120724346, 'f1_score': 0.6364329418634552}
+Task Metrics: {'super_class': {'accuracy': 0.8672032193158954, 'precision': 0.8502021762337163, 'recall': 0.8672032193158954, 'f1_score': 0.8525819593722186}, 'malignancy': {'accuracy': 0.9191146881287726, 'precision': 0.903419359863246, 'recall': 0.9191146881287726, 'f1_score': 0.9063425667988481}, 'main_class_1': {'accuracy': 0.5319919517102616, 'precision': 0.4716803542483077, 'recall': 0.5319919517102616, 'f1_score': 0.4711617860535684}, 'main_class_2': {'accuracy': 0.5979879275653923, 'precision': 0.5051593829692661, 'recall': 0.5979879275653923, 'f1_score': 0.5429459340378731}, 'sub_class': {'accuracy': 0.5187122736418511, 'precision': 0.3411998235613556, 'recall': 0.5187122736418511, 'f1_score': 0.40913246305476836}}
+Epsilon: 1.99, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.70
+Training Duration: 237.14s
+Privacy-Performance Tradeoff: 3.13
+
+Epoch 6
+Train Loss: 2840.7923, Val Loss: 7.4534
+Avg Metrics: {'accuracy': 0.689738430583501, 'precision': 0.5917835757002624, 'recall': 0.6897384305835009, 'f1_score': 0.597897996176651}
+Task Metrics: {'super_class': {'accuracy': 0.8559356136820926, 'precision': 0.8643189750749396, 'recall': 0.8559356136820926, 'f1_score': 0.8014269395923449}, 'malignancy': {'accuracy': 0.9118712273641851, 'precision': 0.8958686137443216, 'recall': 0.9118712273641851, 'f1_score': 0.8862712295129526}, 'main_class_1': {'accuracy': 0.5195171026156942, 'precision': 0.41259416742987537, 'recall': 0.5195171026156942, 'f1_score': 0.401670493122624}, 'main_class_2': {'accuracy': 0.6317907444668008, 'precision': 0.48538298884214376, 'recall': 0.6317907444668008, 'f1_score': 0.5214402353041242}, 'sub_class': {'accuracy': 0.5295774647887324, 'precision': 0.300753133410032, 'recall': 0.5295774647887324, 'f1_score': 0.3786810833512094}}
+Epsilon: 2.11, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.70
+Training Duration: 240.27s
+Privacy-Performance Tradeoff: 3.52
+
+Epoch 7
+Train Loss: 2610.6352, Val Loss: 6.7389
+Avg Metrics: {'accuracy': 0.6925553319919517, 'precision': 0.6151919501212895, 'recall': 0.6925553319919517, 'f1_score': 0.6135653043480002}
+Task Metrics: {'super_class': {'accuracy': 0.8651911468812877, 'precision': 0.8494028612617792, 'recall': 0.8651911468812877, 'f1_score': 0.8325793560380942}, 'malignancy': {'accuracy': 0.9094567404426559, 'precision': 0.88831654385474, 'recall': 0.9094567404426559, 'f1_score': 0.8850015230425406}, 'main_class_1': {'accuracy': 0.530784708249497, 'precision': 0.4293819127299377, 'recall': 0.530784708249497, 'f1_score': 0.4341665432606388}, 'main_class_2': {'accuracy': 0.6249496981891348, 'precision': 0.581155883671195, 'recall': 0.6249496981891348, 'f1_score': 0.5143184802872047}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.3277025490887955, 'recall': 0.532394366197183, 'f1_score': 0.4017606191115222}}
+Epsilon: 2.21, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.70
+Training Duration: 237.79s
+Privacy-Performance Tradeoff: 3.60
+
+Epoch 8
+Train Loss: 2707.0398, Val Loss: 7.3415
+Avg Metrics: {'accuracy': 0.6911066398390342, 'precision': 0.5971491150984811, 'recall': 0.6911066398390341, 'f1_score': 0.6106878383947014}
+Task Metrics: {'super_class': {'accuracy': 0.8680080482897384, 'precision': 0.8547963717858084, 'recall': 0.8680080482897384, 'f1_score': 0.8366429657208816}, 'malignancy': {'accuracy': 0.9122736418511066, 'precision': 0.8962394988487629, 'recall': 0.9122736418511066, 'f1_score': 0.8866572365422528}, 'main_class_1': {'accuracy': 0.5295774647887324, 'precision': 0.4307471266939418, 'recall': 0.5295774647887324, 'f1_score': 0.4237030513674345}, 'main_class_2': {'accuracy': 0.6217303822937625, 'precision': 0.48672363175208466, 'recall': 0.6217303822937625, 'f1_score': 0.5114265705182399}, 'sub_class': {'accuracy': 0.523943661971831, 'precision': 0.31723894641180767, 'recall': 0.523943661971831, 'f1_score': 0.3950093678246985}}
+Epsilon: 2.31, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.70
+Training Duration: 238.91s
+Privacy-Performance Tradeoff: 3.78
+
+Epoch 9
+Train Loss: 2738.7569, Val Loss: 6.9446
+Avg Metrics: {'accuracy': 0.6957746478873239, 'precision': 0.5914025973401655, 'recall': 0.6957746478873239, 'f1_score': 0.6164907786672599}
+Task Metrics: {'super_class': {'accuracy': 0.8639839034205231, 'precision': 0.8444134309402515, 'recall': 0.8639839034205231, 'f1_score': 0.8350054057912345}, 'malignancy': {'accuracy': 0.9142857142857143, 'precision': 0.8966944554599559, 'recall': 0.9142857142857143, 'f1_score': 0.8944279515667376}, 'main_class_1': {'accuracy': 0.5319919517102616, 'precision': 0.4240316922178614, 'recall': 0.5319919517102616, 'f1_score': 0.4235232423861295}, 'main_class_2': {'accuracy': 0.6237424547283702, 'precision': 0.46137956090623966, 'recall': 0.6237424547283702, 'f1_score': 0.5186226172998428}, 'sub_class': {'accuracy': 0.5448692152917505, 'precision': 0.33049384717651903, 'recall': 0.5448692152917505, 'f1_score': 0.41087467629235475}}
+Epsilon: 2.41, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.70
+Training Duration: 239.43s
+Privacy-Performance Tradeoff: 3.90
+
+Epoch 10
+Train Loss: 2677.2308, Val Loss: 6.2806
+Avg Metrics: {'accuracy': 0.6956941649899396, 'precision': 0.6146267595395896, 'recall': 0.6956941649899396, 'f1_score': 0.6228815956117637}
+Task Metrics: {'super_class': {'accuracy': 0.8647887323943662, 'precision': 0.8513148831189008, 'recall': 0.8647887323943662, 'f1_score': 0.829481367322596}, 'malignancy': {'accuracy': 0.9191146881287726, 'precision': 0.9033657556496424, 'recall': 0.9191146881287726, 'f1_score': 0.9035317522135634}, 'main_class_1': {'accuracy': 0.5203219315895372, 'precision': 0.43937857603736563, 'recall': 0.5203219315895372, 'f1_score': 0.42691340657812166}, 'main_class_2': {'accuracy': 0.635010060362173, 'precision': 0.48897578116039647, 'recall': 0.635010060362173, 'f1_score': 0.5358625313081883}, 'sub_class': {'accuracy': 0.5392354124748491, 'precision': 0.3900988017316426, 'recall': 0.5392354124748491, 'f1_score': 0.41861892063634937}}
+Epsilon: 2.50, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.70
+Training Duration: 239.05s
+Privacy-Performance Tradeoff: 4.01
+
+Epoch 1
+Train Loss: 3422.2712, Val Loss: 6.9888
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 1.66, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.67
+Training Duration: 240.84s
+Privacy-Performance Tradeoff: 2.99
+
+Epoch 2
+Train Loss: 2665.6663, Val Loss: 5.4955
+Avg Metrics: {'accuracy': 0.6808048289738431, 'precision': 0.5211378669476743, 'recall': 0.6808048289738431, 'f1_score': 0.5784188561277097}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.5175050301810865, 'precision': 0.3733080490799485, 'recall': 0.5175050301810865, 'f1_score': 0.41696869397279934}, 'main_class_2': {'accuracy': 0.6100603621730383, 'precision': 0.4108198623800015, 'recall': 0.6100603621730383, 'f1_score': 0.4792832104581951}, 'sub_class': {'accuracy': 0.5327967806841046, 'precision': 0.29986318556238684, 'recall': 0.5327967806841046, 'f1_score': 0.371109825941219}}
+Epsilon: 1.93, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.67
+Training Duration: 240.98s
+Privacy-Performance Tradeoff: 3.34
+
+Epoch 3
+Train Loss: 2712.8647, Val Loss: 6.2810
+Avg Metrics: {'accuracy': 0.6823340040241449, 'precision': 0.5437338864148903, 'recall': 0.6823340040241449, 'f1_score': 0.5928124612805836}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.5243460764587525, 'precision': 0.3863476107968772, 'recall': 0.5243460764587525, 'f1_score': 0.434029450783946}, 'main_class_2': {'accuracy': 0.6032193158953723, 'precision': 0.48615875976205164, 'recall': 0.6032193158953723, 'f1_score': 0.5003761045386914}, 'sub_class': {'accuracy': 0.5404426559356137, 'precision': 0.324464823799488, 'recall': 0.5404426559356137, 'f1_score': 0.4049242008139457}}
+Epsilon: 2.12, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.67
+Training Duration: 241.53s
+Privacy-Performance Tradeoff: 3.58
+
+Epoch 4
+Train Loss: 2752.6724, Val Loss: 6.5774
+Avg Metrics: {'accuracy': 0.6821730382293762, 'precision': 0.582516816839954, 'recall': 0.6821730382293762, 'f1_score': 0.5890634344704602}
+Task Metrics: {'super_class': {'accuracy': 0.8446680080482898, 'precision': 0.8688057491486761, 'recall': 0.8446680080482898, 'f1_score': 0.77394514458583}, 'malignancy': {'accuracy': 0.8989939637826961, 'precision': 0.8088774191039959, 'recall': 0.8989939637826961, 'f1_score': 0.8515581729410154}, 'main_class_1': {'accuracy': 0.5187122736418511, 'precision': 0.36587332673589223, 'recall': 0.5187122736418511, 'f1_score': 0.411449560160518}, 'main_class_2': {'accuracy': 0.6096579476861167, 'precision': 0.5234448915506845, 'recall': 0.6096579476861167, 'f1_score': 0.5053472025437504}, 'sub_class': {'accuracy': 0.5388329979879276, 'precision': 0.3455826976605212, 'recall': 0.5388329979879276, 'f1_score': 0.40301709212118686}}
+Epsilon: 2.28, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.67
+Training Duration: 239.23s
+Privacy-Performance Tradeoff: 3.88
+
+Epoch 5
+Train Loss: 2760.3929, Val Loss: 5.6613
+Avg Metrics: {'accuracy': 0.6976257545271629, 'precision': 0.61582896413396, 'recall': 0.697625754527163, 'f1_score': 0.6420121056201549}
+Task Metrics: {'super_class': {'accuracy': 0.8619718309859155, 'precision': 0.8442725618745883, 'recall': 0.8619718309859155, 'f1_score': 0.8481274544955831}, 'malignancy': {'accuracy': 0.9199195171026157, 'precision': 0.9156959566840043, 'recall': 0.9199195171026157, 'f1_score': 0.9178025528758358}, 'main_class_1': {'accuracy': 0.5549295774647888, 'precision': 0.4762633619685519, 'recall': 0.5549295774647888, 'f1_score': 0.486772436239161}, 'main_class_2': {'accuracy': 0.6197183098591549, 'precision': 0.4903957245624111, 'recall': 0.6197183098591549, 'f1_score': 0.5374548197571927}, 'sub_class': {'accuracy': 0.53158953722334, 'precision': 0.3525172155802441, 'recall': 0.53158953722334, 'f1_score': 0.41990326473300194}}
+Epsilon: 2.42, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.67
+Training Duration: 241.35s
+Privacy-Performance Tradeoff: 3.78
+
+Epoch 6
+Train Loss: 2804.5465, Val Loss: 6.0110
+Avg Metrics: {'accuracy': 0.7021327967806841, 'precision': 0.6176598153216785, 'recall': 0.7021327967806842, 'f1_score': 0.6277871958795669}
+Task Metrics: {'super_class': {'accuracy': 0.8643863179074447, 'precision': 0.8492039007463132, 'recall': 0.8643863179074447, 'f1_score': 0.8299937068660789}, 'malignancy': {'accuracy': 0.9227364185110664, 'precision': 0.909565234544522, 'recall': 0.9227364185110664, 'f1_score': 0.907296544516919}, 'main_class_1': {'accuracy': 0.5496981891348088, 'precision': 0.4773845829624326, 'recall': 0.5496981891348088, 'f1_score': 0.4556647836980679}, 'main_class_2': {'accuracy': 0.6414486921529176, 'precision': 0.5211493019939517, 'recall': 0.6414486921529176, 'f1_score': 0.5416793814213338}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.33099605636117296, 'recall': 0.532394366197183, 'f1_score': 0.4043015628954351}}
+Epsilon: 2.55, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.67
+Training Duration: 243.19s
+Privacy-Performance Tradeoff: 4.07
+
+Epoch 7
+Train Loss: 2787.6560, Val Loss: 6.9911
+Avg Metrics: {'accuracy': 0.7071227364185111, 'precision': 0.6180916340908298, 'recall': 0.7071227364185111, 'f1_score': 0.6354839346129895}
+Task Metrics: {'super_class': {'accuracy': 0.8716297786720322, 'precision': 0.8596155669933369, 'recall': 0.8716297786720322, 'f1_score': 0.8434278201712868}, 'malignancy': {'accuracy': 0.9187122736418512, 'precision': 0.9047077263901991, 'recall': 0.9187122736418512, 'f1_score': 0.8999743449685772}, 'main_class_1': {'accuracy': 0.5492957746478874, 'precision': 0.4636058949860211, 'recall': 0.5492957746478874, 'f1_score': 0.4601733307110835}, 'main_class_2': {'accuracy': 0.6426559356136821, 'precision': 0.5062540362794108, 'recall': 0.6426559356136821, 'f1_score': 0.5500441730401073}, 'sub_class': {'accuracy': 0.5533199195171026, 'precision': 0.3562749458051811, 'recall': 0.5533199195171026, 'f1_score': 0.4238000041738925}}
+Epsilon: 2.67, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.67
+Training Duration: 242.17s
+Privacy-Performance Tradeoff: 4.21
+
+Epoch 8
+Train Loss: 2713.6002, Val Loss: 7.3630
+Avg Metrics: {'accuracy': 0.6939235412474849, 'precision': 0.603011689629272, 'recall': 0.6939235412474849, 'f1_score': 0.6133581469568632}
+Task Metrics: {'super_class': {'accuracy': 0.8647887323943662, 'precision': 0.8604605889641684, 'recall': 0.8647887323943662, 'f1_score': 0.8242722508890525}, 'malignancy': {'accuracy': 0.9082494969818914, 'precision': 0.8899134498018408, 'recall': 0.9082494969818914, 'f1_score': 0.876756296948792}, 'main_class_1': {'accuracy': 0.5348088531187123, 'precision': 0.44847722546759766, 'recall': 0.5348088531187123, 'f1_score': 0.4371360285295007}, 'main_class_2': {'accuracy': 0.6305835010060362, 'precision': 0.494984759981822, 'recall': 0.6305835010060362, 'f1_score': 0.52851225139716}, 'sub_class': {'accuracy': 0.5311871227364185, 'precision': 0.32122242393093076, 'recall': 0.5311871227364185, 'f1_score': 0.40011390701981076}}
+Epsilon: 2.79, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.67
+Training Duration: 240.21s
+Privacy-Performance Tradeoff: 4.54
+
+Epoch 9
+Train Loss: 2689.1498, Val Loss: 5.9152
+Avg Metrics: {'accuracy': 0.6995573440643863, 'precision': 0.6224068902818053, 'recall': 0.6995573440643863, 'f1_score': 0.6421587567098747}
+Task Metrics: {'super_class': {'accuracy': 0.8579476861167002, 'precision': 0.8457025270603067, 'recall': 0.8579476861167002, 'f1_score': 0.8501946925015244}, 'malignancy': {'accuracy': 0.9154929577464789, 'precision': 0.8987143448928867, 'recall': 0.9154929577464789, 'f1_score': 0.895443981158918}, 'main_class_1': {'accuracy': 0.5633802816901409, 'precision': 0.4848408795507261, 'recall': 0.5633802816901409, 'f1_score': 0.5030060727251561}, 'main_class_2': {'accuracy': 0.6313883299798793, 'precision': 0.5268640502754579, 'recall': 0.6313883299798793, 'f1_score': 0.5434593660205486}, 'sub_class': {'accuracy': 0.5295774647887324, 'precision': 0.3559126496296493, 'recall': 0.5295774647887324, 'f1_score': 0.4186896711432265}}
+Epsilon: 2.90, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.67
+Training Duration: 239.72s
+Privacy-Performance Tradeoff: 4.51
+
+Epoch 10
+Train Loss: 2670.5445, Val Loss: 6.3286
+Avg Metrics: {'accuracy': 0.7020523138832998, 'precision': 0.6132820517572543, 'recall': 0.7020523138832998, 'f1_score': 0.6379538701244629}
+Task Metrics: {'super_class': {'accuracy': 0.8688128772635815, 'precision': 0.850993832265751, 'recall': 0.8688128772635815, 'f1_score': 0.8469297645282123}, 'malignancy': {'accuracy': 0.9183098591549296, 'precision': 0.9025801206261753, 'recall': 0.9183098591549296, 'f1_score': 0.9052988706670618}, 'main_class_1': {'accuracy': 0.5480885311871228, 'precision': 0.45567570925680545, 'recall': 0.5480885311871228, 'f1_score': 0.4576257565760019}, 'main_class_2': {'accuracy': 0.6366197183098592, 'precision': 0.5095549541908606, 'recall': 0.6366197183098592, 'f1_score': 0.5592829397143897}, 'sub_class': {'accuracy': 0.538430583501006, 'precision': 0.3476056424466791, 'recall': 0.538430583501006, 'f1_score': 0.4206320191366484}}
+Epsilon: 3.00, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.67
+Training Duration: 239.81s
+Privacy-Performance Tradeoff: 4.70
+
+Epoch 1
+Train Loss: 3556.6201, Val Loss: 6.1522
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 1.98, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.64
+Training Duration: 239.43s
+Privacy-Performance Tradeoff: 3.56
+
+Epoch 2
+Train Loss: 2841.9609, Val Loss: 5.6805
+Avg Metrics: {'accuracy': 0.6786317907444668, 'precision': 0.5252443756359603, 'recall': 0.6786317907444668, 'f1_score': 0.5751077578960385}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.5134808853118712, 'precision': 0.36518817020843763, 'recall': 0.5134808853118712, 'f1_score': 0.4093235112565879}, 'main_class_2': {'accuracy': 0.6040241448692153, 'precision': 0.4549615906138439, 'recall': 0.6040241448692153, 'f1_score': 0.47085326396955207}, 'sub_class': {'accuracy': 0.5319919517102616, 'precision': 0.28437387964148525, 'recall': 0.5319919517102616, 'f1_score': 0.3706294639877178}}
+Epsilon: 2.28, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.64
+Training Duration: 241.29s
+Privacy-Performance Tradeoff: 3.97
+
+Epoch 3
+Train Loss: 2768.9656, Val Loss: 5.6696
+Avg Metrics: {'accuracy': 0.6894164989939637, 'precision': 0.6081930425231563, 'recall': 0.6894164989939637, 'f1_score': 0.6244715210207012}
+Task Metrics: {'super_class': {'accuracy': 0.8631790744466801, 'precision': 0.8490298230696666, 'recall': 0.8631790744466801, 'f1_score': 0.8261863397156484}, 'malignancy': {'accuracy': 0.9110663983903421, 'precision': 0.8922121869742311, 'recall': 0.9110663983903421, 'f1_score': 0.8967689599647851}, 'main_class_1': {'accuracy': 0.5162977867203219, 'precision': 0.4419342636208152, 'recall': 0.5162977867203219, 'f1_score': 0.44936751078311465}, 'main_class_2': {'accuracy': 0.6293762575452716, 'precision': 0.5090376289105248, 'recall': 0.6293762575452716, 'f1_score': 0.54230404535497}, 'sub_class': {'accuracy': 0.5271629778672032, 'precision': 0.3487513100405443, 'recall': 0.5271629778672032, 'f1_score': 0.40773074928498776}}
+Epsilon: 2.50, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.64
+Training Duration: 239.28s
+Privacy-Performance Tradeoff: 4.00
+
+Epoch 4
+Train Loss: 2915.7865, Val Loss: 5.6033
+Avg Metrics: {'accuracy': 0.6907042253521126, 'precision': 0.6173622554676802, 'recall': 0.6907042253521126, 'f1_score': 0.6388201286234937}
+Task Metrics: {'super_class': {'accuracy': 0.8619718309859155, 'precision': 0.842514176269408, 'recall': 0.8619718309859155, 'f1_score': 0.8285812511076607}, 'malignancy': {'accuracy': 0.9094567404426559, 'precision': 0.8918546110316719, 'recall': 0.9094567404426559, 'f1_score': 0.8973703254729422}, 'main_class_1': {'accuracy': 0.5388329979879276, 'precision': 0.4648529644018038, 'recall': 0.5388329979879276, 'f1_score': 0.48691481141176096}, 'main_class_2': {'accuracy': 0.6189134808853118, 'precision': 0.5082948383871752, 'recall': 0.6189134808853118, 'f1_score': 0.5551520403813293}, 'sub_class': {'accuracy': 0.5243460764587525, 'precision': 0.37929468724834264, 'recall': 0.5243460764587525, 'f1_score': 0.4260822147437759}}
+Epsilon: 2.68, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.64
+Training Duration: 245.93s
+Privacy-Performance Tradeoff: 4.20
+
+Epoch 5
+Train Loss: 2705.6029, Val Loss: 6.1987
+Avg Metrics: {'accuracy': 0.694728370221328, 'precision': 0.6100467123297157, 'recall': 0.6947283702213279, 'f1_score': 0.6338152845459885}
+Task Metrics: {'super_class': {'accuracy': 0.8716297786720322, 'precision': 0.8558427328612652, 'recall': 0.8716297786720322, 'f1_score': 0.8488918959379842}, 'malignancy': {'accuracy': 0.9167002012072435, 'precision': 0.8996166281393823, 'recall': 0.9167002012072435, 'f1_score': 0.8997849344278798}, 'main_class_1': {'accuracy': 0.5340040241448692, 'precision': 0.45925792296130225, 'recall': 0.5340040241448692, 'f1_score': 0.464859618901244}, 'main_class_2': {'accuracy': 0.6321931589537223, 'precision': 0.4997835046821611, 'recall': 0.6321931589537223, 'f1_score': 0.5507219880143835}, 'sub_class': {'accuracy': 0.5191146881287726, 'precision': 0.3357327730044677, 'recall': 0.5191146881287726, 'f1_score': 0.40481798544845105}}
+Epsilon: 2.84, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.64
+Training Duration: 240.91s
+Privacy-Performance Tradeoff: 4.48
+
+Epoch 6
+Train Loss: 2670.6523, Val Loss: 7.0359
+Avg Metrics: {'accuracy': 0.691830985915493, 'precision': 0.594197307460343, 'recall': 0.6918309859154929, 'f1_score': 0.60893012951848}
+Task Metrics: {'super_class': {'accuracy': 0.8635814889336016, 'precision': 0.863588770777168, 'recall': 0.8635814889336016, 'f1_score': 0.8200950596677075}, 'malignancy': {'accuracy': 0.9106639839034205, 'precision': 0.8903866075129416, 'recall': 0.9106639839034205, 'f1_score': 0.8879323634683702}, 'main_class_1': {'accuracy': 0.5259557344064386, 'precision': 0.4182159015012866, 'recall': 0.5259557344064386, 'f1_score': 0.4213154224472837}, 'main_class_2': {'accuracy': 0.6301810865191146, 'precision': 0.47894125183266256, 'recall': 0.6301810865191146, 'f1_score': 0.5195335111205293}, 'sub_class': {'accuracy': 0.5287726358148893, 'precision': 0.31985400567765687, 'recall': 0.5287726358148893, 'f1_score': 0.3957742908885091}}
+Epsilon: 2.99, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.64
+Training Duration: 238.89s
+Privacy-Performance Tradeoff: 4.90
+
+Epoch 7
+Train Loss: 2621.1634, Val Loss: 5.1944
+Avg Metrics: {'accuracy': 0.6910261569416499, 'precision': 0.6252664736301311, 'recall': 0.6910261569416499, 'f1_score': 0.6466846486962681}
+Task Metrics: {'super_class': {'accuracy': 0.8599597585513078, 'precision': 0.8431792336716156, 'recall': 0.8599597585513078, 'f1_score': 0.8476986471839484}, 'malignancy': {'accuracy': 0.9074446680080482, 'precision': 0.8954936498938593, 'recall': 0.9074446680080482, 'f1_score': 0.9007087555357305}, 'main_class_1': {'accuracy': 0.5336016096579477, 'precision': 0.4875586695268686, 'recall': 0.5336016096579477, 'f1_score': 0.5026298783855777}, 'main_class_2': {'accuracy': 0.6269617706237425, 'precision': 0.5152739592353717, 'recall': 0.6269617706237425, 'f1_score': 0.5497375711555766}, 'sub_class': {'accuracy': 0.5271629778672032, 'precision': 0.3848268558229405, 'recall': 0.5271629778672032, 'f1_score': 0.4326483912205074}}
+Epsilon: 3.12, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.64
+Training Duration: 238.54s
+Privacy-Performance Tradeoff: 4.83
+
+Epoch 8
+Train Loss: 2667.2753, Val Loss: 6.4031
+Avg Metrics: {'accuracy': 0.7003621730382295, 'precision': 0.615066090454015, 'recall': 0.7003621730382295, 'f1_score': 0.6325710579840289}
+Task Metrics: {'super_class': {'accuracy': 0.8663983903420523, 'precision': 0.8478589724052488, 'recall': 0.8663983903420523, 'f1_score': 0.8486386656710104}, 'malignancy': {'accuracy': 0.9255533199195171, 'precision': 0.9128658669468994, 'recall': 0.9255533199195171, 'f1_score': 0.915354630751516}, 'main_class_1': {'accuracy': 0.5396378269617707, 'precision': 0.44004042326991005, 'recall': 0.5396378269617707, 'f1_score': 0.4375122585864394}, 'main_class_2': {'accuracy': 0.63420523138833, 'precision': 0.5019817650801854, 'recall': 0.63420523138833, 'f1_score': 0.5451864912560445}, 'sub_class': {'accuracy': 0.5360160965794769, 'precision': 0.372583424567831, 'recall': 0.5360160965794769, 'f1_score': 0.41616324365513446}}
+Epsilon: 3.25, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.64
+Training Duration: 240.34s
+Privacy-Performance Tradeoff: 5.14
+
+Epoch 9
+Train Loss: 2650.0340, Val Loss: 6.3151
+Avg Metrics: {'accuracy': 0.7068008048289738, 'precision': 0.6261897247132768, 'recall': 0.7068008048289738, 'f1_score': 0.646934903566842}
+Task Metrics: {'super_class': {'accuracy': 0.8700201207243461, 'precision': 0.8632874435524802, 'recall': 0.8700201207243461, 'f1_score': 0.8362760305326992}, 'malignancy': {'accuracy': 0.9275653923541247, 'precision': 0.9155332208574398, 'recall': 0.9275653923541247, 'f1_score': 0.9161739403338574}, 'main_class_1': {'accuracy': 0.5412474849094567, 'precision': 0.467066057524957, 'recall': 0.5412474849094567, 'f1_score': 0.48192827137686745}, 'main_class_2': {'accuracy': 0.6434607645875251, 'precision': 0.5198069591339219, 'recall': 0.6434607645875251, 'f1_score': 0.5670799951862019}, 'sub_class': {'accuracy': 0.5517102615694165, 'precision': 0.3652549424975853, 'recall': 0.5517102615694165, 'f1_score': 0.43321628040458415}}
+Epsilon: 3.38, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.64
+Training Duration: 241.48s
+Privacy-Performance Tradeoff: 5.22
+
+Epoch 10
+Train Loss: 2711.1701, Val Loss: 6.6080
+Avg Metrics: {'accuracy': 0.7058350100603622, 'precision': 0.6198692227391122, 'recall': 0.7058350100603621, 'f1_score': 0.6357246629759483}
+Task Metrics: {'super_class': {'accuracy': 0.8748490945674045, 'precision': 0.8599381977083284, 'recall': 0.8748490945674045, 'f1_score': 0.8557590538929117}, 'malignancy': {'accuracy': 0.9267605633802817, 'precision': 0.9144169732802047, 'recall': 0.9267605633802817, 'f1_score': 0.9152620850757547}, 'main_class_1': {'accuracy': 0.5408450704225352, 'precision': 0.4640638965787145, 'recall': 0.5408450704225352, 'f1_score': 0.44301893559275685}, 'main_class_2': {'accuracy': 0.6414486921529176, 'precision': 0.500152276164046, 'recall': 0.6414486921529176, 'f1_score': 0.5368525255573403}, 'sub_class': {'accuracy': 0.545271629778672, 'precision': 0.3607747699642672, 'recall': 0.545271629778672, 'f1_score': 0.4277307147609777}}
+Epsilon: 3.49, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.64
+Training Duration: 239.92s
+Privacy-Performance Tradeoff: 5.50
+
+Epoch 1
+Train Loss: 3490.9003, Val Loss: 6.1788
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 2.29, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.61
+Training Duration: 240.82s
+Privacy-Performance Tradeoff: 4.13
+
+Epoch 2
+Train Loss: 2651.9672, Val Loss: 6.1568
+Avg Metrics: {'accuracy': 0.6824949698189136, 'precision': 0.5491108152526717, 'recall': 0.6824949698189136, 'f1_score': 0.5787060633683911}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8997987927565393, 'precision': 0.873647255545089, 'recall': 0.8997987927565393, 'f1_score': 0.8535089356724237}, 'main_class_1': {'accuracy': 0.509456740442656, 'precision': 0.34381797798575164, 'recall': 0.509456740442656, 'f1_score': 0.38655257068807125}, 'main_class_2': {'accuracy': 0.6261569416498994, 'precision': 0.5239230304288645, 'recall': 0.6261569416498994, 'f1_score': 0.5043207980707078}, 'sub_class': {'accuracy': 0.5327967806841046, 'precision': 0.29138141983212407, 'recall': 0.5327967806841046, 'f1_score': 0.3761743203785684}}
+Epsilon: 2.63, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.61
+Training Duration: 243.79s
+Privacy-Performance Tradeoff: 4.54
+
+Epoch 3
+Train Loss: 2762.0894, Val Loss: 6.8163
+Avg Metrics: {'accuracy': 0.6825754527162978, 'precision': 0.5915937728935613, 'recall': 0.6825754527162979, 'f1_score': 0.5893726058170399}
+Task Metrics: {'super_class': {'accuracy': 0.8635814889336016, 'precision': 0.8651049003645999, 'recall': 0.8635814889336016, 'f1_score': 0.8196062818932979}, 'malignancy': {'accuracy': 0.9062374245472837, 'precision': 0.894336358384766, 'recall': 0.9062374245472837, 'f1_score': 0.8706517636150837}, 'main_class_1': {'accuracy': 0.5126760563380282, 'precision': 0.3976535676241438, 'recall': 0.5126760563380282, 'f1_score': 0.3877064419219255}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.5022382097462825, 'recall': 0.6028169014084507, 'f1_score': 0.4875611497184978}, 'sub_class': {'accuracy': 0.5275653923541247, 'precision': 0.2986358283480145, 'recall': 0.5275653923541247, 'f1_score': 0.38133739193639454}}
+Epsilon: 2.87, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.61
+Training Duration: 239.57s
+Privacy-Performance Tradeoff: 4.87
+
+Epoch 4
+Train Loss: 2651.2197, Val Loss: 6.4347
+Avg Metrics: {'accuracy': 0.6937625754527164, 'precision': 0.6030020448866718, 'recall': 0.6937625754527164, 'f1_score': 0.6246568802657018}
+Task Metrics: {'super_class': {'accuracy': 0.8631790744466801, 'precision': 0.8420556264323952, 'recall': 0.8631790744466801, 'f1_score': 0.8384623288729263}, 'malignancy': {'accuracy': 0.9142857142857143, 'precision': 0.8962741118459535, 'recall': 0.9142857142857143, 'f1_score': 0.894503209461328}, 'main_class_1': {'accuracy': 0.5360160965794769, 'precision': 0.44728411217098846, 'recall': 0.5360160965794769, 'f1_score': 0.462085406565264}, 'main_class_2': {'accuracy': 0.6297786720321932, 'precision': 0.4921848964728831, 'recall': 0.6297786720321932, 'f1_score': 0.5274176780557516}, 'sub_class': {'accuracy': 0.5255533199195171, 'precision': 0.3372114775111387, 'recall': 0.5255533199195171, 'f1_score': 0.4008157783732393}}
+Epsilon: 3.08, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.61
+Training Duration: 240.95s
+Privacy-Performance Tradeoff: 4.92
+
+Epoch 5
+Train Loss: 2753.9441, Val Loss: 6.4556
+Avg Metrics: {'accuracy': 0.6982696177062374, 'precision': 0.6044227418256162, 'recall': 0.6982696177062374, 'f1_score': 0.6312744302844008}
+Task Metrics: {'super_class': {'accuracy': 0.8639839034205231, 'precision': 0.8450388675666333, 'recall': 0.8639839034205231, 'f1_score': 0.8472310050780876}, 'malignancy': {'accuracy': 0.9167002012072435, 'precision': 0.8998716235048566, 'recall': 0.9167002012072435, 'f1_score': 0.9015203270785968}, 'main_class_1': {'accuracy': 0.5380281690140845, 'precision': 0.4466700388873593, 'recall': 0.5380281690140845, 'f1_score': 0.46414086444695796}, 'main_class_2': {'accuracy': 0.6346076458752515, 'precision': 0.49068315696939896, 'recall': 0.6346076458752515, 'f1_score': 0.5340708803684417}, 'sub_class': {'accuracy': 0.5380281690140845, 'precision': 0.3398500221998323, 'recall': 0.5380281690140845, 'f1_score': 0.4094090744499201}}
+Epsilon: 3.26, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.61
+Training Duration: 247.04s
+Privacy-Performance Tradeoff: 5.16
+
+Epoch 6
+Train Loss: 2648.5843, Val Loss: 7.3498
+Avg Metrics: {'accuracy': 0.6968209255533199, 'precision': 0.6035183204304715, 'recall': 0.6968209255533199, 'f1_score': 0.6135134902544666}
+Task Metrics: {'super_class': {'accuracy': 0.8672032193158954, 'precision': 0.8582908457670683, 'recall': 0.8672032193158954, 'f1_score': 0.8317114212042408}, 'malignancy': {'accuracy': 0.9146881287726358, 'precision': 0.9038740492319505, 'recall': 0.9146881287726358, 'f1_score': 0.8892415525664085}, 'main_class_1': {'accuracy': 0.5275653923541247, 'precision': 0.4307849593060609, 'recall': 0.5275653923541247, 'f1_score': 0.4240377373362547}, 'main_class_2': {'accuracy': 0.6346076458752515, 'precision': 0.48672820007364476, 'recall': 0.6346076458752515, 'f1_score': 0.5247625723636756}, 'sub_class': {'accuracy': 0.5400402414486921, 'precision': 0.3379135477736329, 'recall': 0.5400402414486921, 'f1_score': 0.3978141678017532}}
+Epsilon: 3.42, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.61
+Training Duration: 239.74s
+Privacy-Performance Tradeoff: 5.58
+
+Epoch 7
+Train Loss: 2591.5711, Val Loss: 5.4890
+Avg Metrics: {'accuracy': 0.7082494969818913, 'precision': 0.6478908352021182, 'recall': 0.7082494969818913, 'f1_score': 0.6587477248916968}
+Task Metrics: {'super_class': {'accuracy': 0.8619718309859155, 'precision': 0.8467437675554048, 'recall': 0.8619718309859155, 'f1_score': 0.8511179929483659}, 'malignancy': {'accuracy': 0.9227364185110664, 'precision': 0.9196253707240893, 'recall': 0.9227364185110664, 'f1_score': 0.9211644160114323}, 'main_class_1': {'accuracy': 0.5641851106639839, 'precision': 0.49115815292959, 'recall': 0.5641851106639839, 'f1_score': 0.511605426233029}, 'main_class_2': {'accuracy': 0.6338028169014085, 'precision': 0.5259747186795897, 'recall': 0.6338028169014085, 'f1_score': 0.5607639998654443}, 'sub_class': {'accuracy': 0.5585513078470825, 'precision': 0.45595216612191763, 'recall': 0.5585513078470825, 'f1_score': 0.4490867894002127}}
+Epsilon: 3.58, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.61
+Training Duration: 237.91s
+Privacy-Performance Tradeoff: 5.43
+
+Epoch 8
+Train Loss: 2641.5996, Val Loss: 5.7580
+Avg Metrics: {'accuracy': 0.7119517102615693, 'precision': 0.6314669029665053, 'recall': 0.7119517102615693, 'f1_score': 0.655455169481181}
+Task Metrics: {'super_class': {'accuracy': 0.8716297786720322, 'precision': 0.8563870457278133, 'recall': 0.8716297786720322, 'f1_score': 0.8476736772051966}, 'malignancy': {'accuracy': 0.9279678068410463, 'precision': 0.9162443715763634, 'recall': 0.9279678068410463, 'f1_score': 0.9190574771415909}, 'main_class_1': {'accuracy': 0.5561368209255533, 'precision': 0.4859476331378656, 'recall': 0.5561368209255533, 'f1_score': 0.5068160426196582}, 'main_class_2': {'accuracy': 0.6474849094567404, 'precision': 0.522643212894427, 'recall': 0.6474849094567404, 'f1_score': 0.5698741345306703}, 'sub_class': {'accuracy': 0.5565392354124749, 'precision': 0.3761122514960571, 'recall': 0.5565392354124749, 'f1_score': 0.433854515908789}}
+Epsilon: 3.72, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.61
+Training Duration: 238.42s
+Privacy-Performance Tradeoff: 5.68
+
+Epoch 9
+Train Loss: 2729.0667, Val Loss: 6.2302
+Avg Metrics: {'accuracy': 0.7076861167002012, 'precision': 0.6225786216031899, 'recall': 0.7076861167002013, 'f1_score': 0.6443904219497532}
+Task Metrics: {'super_class': {'accuracy': 0.8708249496981891, 'precision': 0.854025979834433, 'recall': 0.8708249496981891, 'f1_score': 0.8499977062459132}, 'malignancy': {'accuracy': 0.924748490945674, 'precision': 0.9136262424628565, 'recall': 0.924748490945674, 'f1_score': 0.9086836790891224}, 'main_class_1': {'accuracy': 0.5581488933601609, 'precision': 0.47952204616787414, 'recall': 0.5581488933601609, 'f1_score': 0.4877608709955268}, 'main_class_2': {'accuracy': 0.6386317907444669, 'precision': 0.506226065187612, 'recall': 0.6386317907444669, 'f1_score': 0.5560355474789448}, 'sub_class': {'accuracy': 0.5460764587525151, 'precision': 0.35949277436317356, 'recall': 0.5460764587525151, 'f1_score': 0.41947430593925894}}
+Epsilon: 3.86, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.61
+Training Duration: 242.31s
+Privacy-Performance Tradeoff: 6.00
+
+Epoch 10
+Train Loss: 2670.1078, Val Loss: 5.5956
+Avg Metrics: {'accuracy': 0.7171830985915493, 'precision': 0.639919553334507, 'recall': 0.7171830985915493, 'f1_score': 0.6575013673121315}
+Task Metrics: {'super_class': {'accuracy': 0.8728370221327968, 'precision': 0.8568826431293919, 'recall': 0.8728370221327968, 'f1_score': 0.8538459592328664}, 'malignancy': {'accuracy': 0.9344064386317907, 'precision': 0.9251589096353733, 'recall': 0.9344064386317907, 'f1_score': 0.9284530751979628}, 'main_class_1': {'accuracy': 0.5722334004024144, 'precision': 0.5027774496856403, 'recall': 0.5722334004024144, 'f1_score': 0.5019742984730786}, 'main_class_2': {'accuracy': 0.6482897384305835, 'precision': 0.5337581211335849, 'recall': 0.6482897384305835, 'f1_score': 0.5551634251446327}, 'sub_class': {'accuracy': 0.5581488933601609, 'precision': 0.38102064308854455, 'recall': 0.5581488933601609, 'f1_score': 0.44807007851211733}}
+Epsilon: 4.00, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.61
+Training Duration: 237.88s
+Privacy-Performance Tradeoff: 6.08
+
+Epoch 1
+Train Loss: 3983.5757, Val Loss: 7.4915
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 2.59, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.59
+Training Duration: 241.40s
+Privacy-Performance Tradeoff: 4.66
+
+Epoch 2
+Train Loss: 2857.1564, Val Loss: 5.7559
+Avg Metrics: {'accuracy': 0.678953722334004, 'precision': 0.5061017121714457, 'recall': 0.6789537223340041, 'f1_score': 0.5702792696426021}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.5158953722334004, 'precision': 0.3615391170552728, 'recall': 0.5158953722334004, 'f1_score': 0.4029492538092525}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3638274449274211, 'recall': 0.6028169014084507, 'f1_score': 0.4537787529195272}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 2.96, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.59
+Training Duration: 236.22s
+Privacy-Performance Tradeoff: 5.19
+
+Epoch 3
+Train Loss: 2812.5246, Val Loss: 5.6116
+Avg Metrics: {'accuracy': 0.6970623742454729, 'precision': 0.6165025361245586, 'recall': 0.6970623742454729, 'f1_score': 0.6317938346225827}
+Task Metrics: {'super_class': {'accuracy': 0.8551307847082495, 'precision': 0.8348077855679499, 'recall': 0.8551307847082495, 'f1_score': 0.8397033144361161}, 'malignancy': {'accuracy': 0.9142857142857143, 'precision': 0.8960415204862748, 'recall': 0.9142857142857143, 'f1_score': 0.8955367098185096}, 'main_class_1': {'accuracy': 0.545271629778672, 'precision': 0.4992877142043775, 'recall': 0.545271629778672, 'f1_score': 0.4907159481358535}, 'main_class_2': {'accuracy': 0.6374245472837022, 'precision': 0.5349698297296208, 'recall': 0.6374245472837022, 'f1_score': 0.5352141575240642}, 'sub_class': {'accuracy': 0.5331991951710262, 'precision': 0.3174058306345702, 'recall': 0.5331991951710262, 'f1_score': 0.39779904319836984}}
+Epsilon: 3.23, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.59
+Training Duration: 243.11s
+Privacy-Performance Tradeoff: 5.11
+
+Epoch 4
+Train Loss: 2844.5048, Val Loss: 5.8233
+Avg Metrics: {'accuracy': 0.6928772635814889, 'precision': 0.6181782772543528, 'recall': 0.6928772635814888, 'f1_score': 0.6361907650782234}
+Task Metrics: {'super_class': {'accuracy': 0.8676056338028169, 'precision': 0.8490704483208555, 'recall': 0.8676056338028169, 'f1_score': 0.845965801138596}, 'malignancy': {'accuracy': 0.9102615694164989, 'precision': 0.8898670311167619, 'recall': 0.9102615694164989, 'f1_score': 0.885260980807315}, 'main_class_1': {'accuracy': 0.537625754527163, 'precision': 0.4681335120177386, 'recall': 0.537625754527163, 'f1_score': 0.47452208467542434}, 'main_class_2': {'accuracy': 0.6181086519114688, 'precision': 0.5185702661829583, 'recall': 0.6181086519114688, 'f1_score': 0.5616295177892046}, 'sub_class': {'accuracy': 0.530784708249497, 'precision': 0.36525012863344936, 'recall': 0.530784708249497, 'f1_score': 0.41357544098057714}}
+Epsilon: 3.46, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.59
+Training Duration: 239.50s
+Privacy-Performance Tradeoff: 5.43
+
+Epoch 5
+Train Loss: 2725.5951, Val Loss: 5.9193
+Avg Metrics: {'accuracy': 0.695533199195171, 'precision': 0.6113328587324286, 'recall': 0.695533199195171, 'f1_score': 0.6340636091359123}
+Task Metrics: {'super_class': {'accuracy': 0.8655935613682093, 'precision': 0.853774602196736, 'recall': 0.8655935613682093, 'f1_score': 0.830085784472587}, 'malignancy': {'accuracy': 0.9162977867203219, 'precision': 0.8992390477958603, 'recall': 0.9162977867203219, 'f1_score': 0.8993953323580207}, 'main_class_1': {'accuracy': 0.545271629778672, 'precision': 0.46314513855166306, 'recall': 0.545271629778672, 'f1_score': 0.4797219875716997}, 'main_class_2': {'accuracy': 0.6253521126760564, 'precision': 0.49971715648615794, 'recall': 0.6253521126760564, 'f1_score': 0.5502829363300685}, 'sub_class': {'accuracy': 0.5251509054325956, 'precision': 0.3407883486317259, 'recall': 0.5251509054325956, 'f1_score': 0.4108320049471861}}
+Epsilon: 3.66, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.59
+Training Duration: 237.77s
+Privacy-Performance Tradeoff: 5.77
+
+Epoch 6
+Train Loss: 2899.0677, Val Loss: 5.7774
+Avg Metrics: {'accuracy': 0.6832997987927565, 'precision': 0.6093776921036733, 'recall': 0.6832997987927565, 'f1_score': 0.6357940029710758}
+Task Metrics: {'super_class': {'accuracy': 0.8390342052313883, 'precision': 0.8407363460417387, 'recall': 0.8390342052313883, 'f1_score': 0.8398685059644606}, 'malignancy': {'accuracy': 0.9122736418511066, 'precision': 0.9050329584336391, 'recall': 0.9122736418511066, 'f1_score': 0.908513174320237}, 'main_class_1': {'accuracy': 0.5331991951710262, 'precision': 0.4651338939700473, 'recall': 0.5331991951710262, 'f1_score': 0.48859048836553565}, 'main_class_2': {'accuracy': 0.6100603621730383, 'precision': 0.4935197453872521, 'recall': 0.6100603621730383, 'f1_score': 0.53308720238687}, 'sub_class': {'accuracy': 0.5219315895372233, 'precision': 0.3424655166856897, 'recall': 0.5219315895372233, 'f1_score': 0.4089106438182759}}
+Epsilon: 3.85, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.59
+Training Duration: 240.65s
+Privacy-Performance Tradeoff: 6.05
+
+Epoch 7
+Train Loss: 2779.7095, Val Loss: 6.1644
+Avg Metrics: {'accuracy': 0.6991549295774648, 'precision': 0.610428860643931, 'recall': 0.6991549295774647, 'f1_score': 0.6314126815974056}
+Task Metrics: {'super_class': {'accuracy': 0.8647887323943662, 'precision': 0.8462866701920485, 'recall': 0.8647887323943662, 'f1_score': 0.8352649297108505}, 'malignancy': {'accuracy': 0.9130784708249498, 'precision': 0.8964608119153575, 'recall': 0.9130784708249498, 'f1_score': 0.8886141770061832}, 'main_class_1': {'accuracy': 0.5404426559356137, 'precision': 0.4526316796068278, 'recall': 0.5404426559356137, 'f1_score': 0.4678033379031243}, 'main_class_2': {'accuracy': 0.6430583501006036, 'precision': 0.5226280718860531, 'recall': 0.6430583501006036, 'f1_score': 0.561415359211245}, 'sub_class': {'accuracy': 0.5344064386317907, 'precision': 0.3341370696193678, 'recall': 0.5344064386317907, 'f1_score': 0.40396560415562544}}
+Epsilon: 4.02, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.59
+Training Duration: 241.12s
+Privacy-Performance Tradeoff: 6.37
+
+Epoch 8
+Train Loss: 2812.4219, Val Loss: 5.6352
+Avg Metrics: {'accuracy': 0.6914285714285715, 'precision': 0.6251203243439422, 'recall': 0.6914285714285715, 'f1_score': 0.6439107066365527}
+Task Metrics: {'super_class': {'accuracy': 0.848692152917505, 'precision': 0.8421615430085594, 'recall': 0.848692152917505, 'f1_score': 0.8451011097569721}, 'malignancy': {'accuracy': 0.9175050301810865, 'precision': 0.9131388819842797, 'recall': 0.9175050301810865, 'f1_score': 0.9153155501928751}, 'main_class_1': {'accuracy': 0.5404426559356137, 'precision': 0.46940212392982694, 'recall': 0.5404426559356137, 'f1_score': 0.4809390526210426}, 'main_class_2': {'accuracy': 0.6241448692152918, 'precision': 0.5330958996792254, 'recall': 0.6241448692152918, 'f1_score': 0.5495227770192267}, 'sub_class': {'accuracy': 0.5263581488933602, 'precision': 0.36780317311781907, 'recall': 0.5263581488933602, 'f1_score': 0.428675043592647}}
+Epsilon: 4.18, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.59
+Training Duration: 240.98s
+Privacy-Performance Tradeoff: 6.50
+
+Epoch 9
+Train Loss: 2671.7667, Val Loss: 5.8689
+Avg Metrics: {'accuracy': 0.6996378269617706, 'precision': 0.6119974853410308, 'recall': 0.6996378269617706, 'f1_score': 0.6399260414892494}
+Task Metrics: {'super_class': {'accuracy': 0.8627766599597585, 'precision': 0.8414182588678684, 'recall': 0.8627766599597585, 'f1_score': 0.8371684135641755}, 'malignancy': {'accuracy': 0.9102615694164989, 'precision': 0.9001183292314059, 'recall': 0.9102615694164989, 'f1_score': 0.9046948492008353}, 'main_class_1': {'accuracy': 0.5537223340040242, 'precision': 0.47085947258540845, 'recall': 0.5537223340040242, 'f1_score': 0.48743077638800714}, 'main_class_2': {'accuracy': 0.6317907444668008, 'precision': 0.4972125155815618, 'recall': 0.6317907444668008, 'f1_score': 0.5476912437859197}, 'sub_class': {'accuracy': 0.5396378269617707, 'precision': 0.3503788504389096, 'recall': 0.5396378269617707, 'f1_score': 0.42264492450730895}}
+Epsilon: 4.34, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.59
+Training Duration: 239.10s
+Privacy-Performance Tradeoff: 6.78
+
+Epoch 10
+Train Loss: 2669.6482, Val Loss: 5.3006
+Avg Metrics: {'accuracy': 0.6898189134808853, 'precision': 0.6388910467611807, 'recall': 0.6898189134808853, 'f1_score': 0.651799534040612}
+Task Metrics: {'super_class': {'accuracy': 0.8470824949698189, 'precision': 0.83863691543413, 'recall': 0.8470824949698189, 'f1_score': 0.8423195644454965}, 'malignancy': {'accuracy': 0.9042253521126761, 'precision': 0.9033709194316492, 'recall': 0.9042253521126761, 'f1_score': 0.9037206212672111}, 'main_class_1': {'accuracy': 0.5529175050301811, 'precision': 0.4894580099009561, 'recall': 0.5529175050301811, 'f1_score': 0.5150160000676158}, 'main_class_2': {'accuracy': 0.6261569416498994, 'precision': 0.514022520648462, 'recall': 0.6261569416498994, 'f1_score': 0.5626962936576405}, 'sub_class': {'accuracy': 0.5187122736418511, 'precision': 0.4489668683907063, 'recall': 0.5187122736418511, 'f1_score': 0.43524519076509643}}
+Epsilon: 4.49, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.59
+Training Duration: 238.50s
+Privacy-Performance Tradeoff: 6.89
+
+Epoch 1
+Train Loss: 3802.4577, Val Loss: 6.8113
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 2.87, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.58
+Training Duration: 240.11s
+Privacy-Performance Tradeoff: 5.18
+
+Epoch 2
+Train Loss: 2776.8601, Val Loss: 6.6059
+Avg Metrics: {'accuracy': 0.6767002012072435, 'precision': 0.5407859159681576, 'recall': 0.6767002012072435, 'f1_score': 0.5728947685968938}
+Task Metrics: {'super_class': {'accuracy': 0.8450704225352113, 'precision': 0.8690929305190791, 'recall': 0.8450704225352113, 'f1_score': 0.774912543517212}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.5090543259557344, 'precision': 0.3548425609493614, 'recall': 0.5090543259557344, 'f1_score': 0.3988472415182722}, 'main_class_2': {'accuracy': 0.5995975855130785, 'precision': 0.38219766813900424, 'recall': 0.5995975855130785, 'f1_score': 0.46491694030764463}, 'sub_class': {'accuracy': 0.5303822937625755, 'precision': 0.28888257498883796, 'recall': 0.5303822937625755, 'f1_score': 0.3740382594071894}}
+Epsilon: 3.28, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.58
+Training Duration: 240.34s
+Privacy-Performance Tradeoff: 5.73
+
+Epoch 3
+Train Loss: 2807.0913, Val Loss: 5.9490
+Avg Metrics: {'accuracy': 0.6892555331991952, 'precision': 0.6041143045645836, 'recall': 0.6892555331991952, 'f1_score': 0.6248108306261765}
+Task Metrics: {'super_class': {'accuracy': 0.8583501006036217, 'precision': 0.838236234008504, 'recall': 0.8583501006036217, 'f1_score': 0.8187065585744631}, 'malignancy': {'accuracy': 0.9106639839034205, 'precision': 0.889809077642089, 'recall': 0.9106639839034205, 'f1_score': 0.8884097002320215}, 'main_class_1': {'accuracy': 0.5271629778672032, 'precision': 0.4481496325567944, 'recall': 0.5271629778672032, 'f1_score': 0.4543377913020344}, 'main_class_2': {'accuracy': 0.6189134808853118, 'precision': 0.5072429265181229, 'recall': 0.6189134808853118, 'f1_score': 0.5515494330984535}, 'sub_class': {'accuracy': 0.5311871227364185, 'precision': 0.33713365209740725, 'recall': 0.5311871227364185, 'f1_score': 0.4110506699239094}}
+Epsilon: 3.58, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.58
+Training Duration: 239.76s
+Privacy-Performance Tradeoff: 5.73
+
+Epoch 4
+Train Loss: 2626.6348, Val Loss: 5.4740
+Avg Metrics: {'accuracy': 0.6966599597585513, 'precision': 0.6091916220465934, 'recall': 0.6966599597585513, 'f1_score': 0.6367298228244149}
+Task Metrics: {'super_class': {'accuracy': 0.8643863179074447, 'precision': 0.8446932555641145, 'recall': 0.8643863179074447, 'f1_score': 0.8367231446101644}, 'malignancy': {'accuracy': 0.9130784708249498, 'precision': 0.9012538687484178, 'recall': 0.9130784708249498, 'f1_score': 0.9062231331370251}, 'main_class_1': {'accuracy': 0.5311871227364185, 'precision': 0.4764675088594737, 'recall': 0.5311871227364185, 'f1_score': 0.48031171493654945}, 'main_class_2': {'accuracy': 0.6346076458752515, 'precision': 0.45893862392508433, 'recall': 0.6346076458752515, 'f1_score': 0.5325972222829556}, 'sub_class': {'accuracy': 0.5400402414486921, 'precision': 0.3646048531358767, 'recall': 0.5400402414486921, 'f1_score': 0.4277938991553801}}
+Epsilon: 3.83, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.58
+Training Duration: 235.58s
+Privacy-Performance Tradeoff: 6.02
+
+Epoch 5
+Train Loss: 2612.2176, Val Loss: 5.9130
+Avg Metrics: {'accuracy': 0.6960160965794768, 'precision': 0.6179555552574382, 'recall': 0.6960160965794768, 'f1_score': 0.6392407462843591}
+Task Metrics: {'super_class': {'accuracy': 0.8688128772635815, 'precision': 0.8513696562372063, 'recall': 0.8688128772635815, 'f1_score': 0.8451138800369822}, 'malignancy': {'accuracy': 0.9150905432595573, 'precision': 0.8975605561361122, 'recall': 0.9150905432595573, 'f1_score': 0.9002338390596152}, 'main_class_1': {'accuracy': 0.5440643863179074, 'precision': 0.466718276811314, 'recall': 0.5440643863179074, 'f1_score': 0.48190962636641477}, 'main_class_2': {'accuracy': 0.6181086519114688, 'precision': 0.5243291207964097, 'recall': 0.6181086519114688, 'f1_score': 0.555705582726256}, 'sub_class': {'accuracy': 0.5340040241448692, 'precision': 0.34980016630614835, 'recall': 0.5340040241448692, 'f1_score': 0.4132408032325279}}
+Epsilon: 4.06, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.58
+Training Duration: 237.81s
+Privacy-Performance Tradeoff: 6.35
+
+Epoch 6
+Train Loss: 2641.6381, Val Loss: 5.6369
+Avg Metrics: {'accuracy': 0.6954527162977867, 'precision': 0.6171325835199144, 'recall': 0.6954527162977866, 'f1_score': 0.643044653222148}
+Task Metrics: {'super_class': {'accuracy': 0.8631790744466801, 'precision': 0.8477043731004235, 'recall': 0.8631790744466801, 'f1_score': 0.8518714218572787}, 'malignancy': {'accuracy': 0.9070422535211268, 'precision': 0.8851957371583419, 'recall': 0.9070422535211268, 'f1_score': 0.8902949865018894}, 'main_class_1': {'accuracy': 0.5428571428571428, 'precision': 0.46194090686790507, 'recall': 0.5428571428571428, 'f1_score': 0.4849990713580322}, 'main_class_2': {'accuracy': 0.6321931589537223, 'precision': 0.5199847759807208, 'recall': 0.6321931589537223, 'f1_score': 0.5677598682530137}, 'sub_class': {'accuracy': 0.5319919517102616, 'precision': 0.3708371244921806, 'recall': 0.5319919517102616, 'f1_score': 0.4202979181405259}}
+Epsilon: 4.27, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.58
+Training Duration: 240.87s
+Privacy-Performance Tradeoff: 6.64
+
+Epoch 7
+Train Loss: 2640.8593, Val Loss: 5.6824
+Avg Metrics: {'accuracy': 0.6989939637826962, 'precision': 0.628004920529353, 'recall': 0.6989939637826963, 'f1_score': 0.654493822258584}
+Task Metrics: {'super_class': {'accuracy': 0.8680080482897384, 'precision': 0.8516274383892004, 'recall': 0.8680080482897384, 'f1_score': 0.8541875413495238}, 'malignancy': {'accuracy': 0.9078470824949698, 'precision': 0.9087682173186205, 'recall': 0.9078470824949698, 'f1_score': 0.9081039085593653}, 'main_class_1': {'accuracy': 0.5529175050301811, 'precision': 0.4786268853640346, 'recall': 0.5529175050301811, 'f1_score': 0.5007238278875334}, 'main_class_2': {'accuracy': 0.6334004024144869, 'precision': 0.5202535857879481, 'recall': 0.6334004024144869, 'f1_score': 0.5682405872599803}, 'sub_class': {'accuracy': 0.5327967806841046, 'precision': 0.38074847578696097, 'recall': 0.5327967806841046, 'f1_score': 0.4412132462365168}}
+Epsilon: 4.46, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.58
+Training Duration: 241.56s
+Privacy-Performance Tradeoff: 6.82
+
+Epoch 8
+Train Loss: 2719.8545, Val Loss: 5.5281
+Avg Metrics: {'accuracy': 0.7014889336016097, 'precision': 0.6289386296441322, 'recall': 0.7014889336016097, 'f1_score': 0.6523965312058062}
+Task Metrics: {'super_class': {'accuracy': 0.8728370221327968, 'precision': 0.8569278479596132, 'recall': 0.8728370221327968, 'f1_score': 0.8561852306013801}, 'malignancy': {'accuracy': 0.9098591549295775, 'precision': 0.909110514426229, 'recall': 0.9098591549295775, 'f1_score': 0.9093841028141766}, 'main_class_1': {'accuracy': 0.5468812877263581, 'precision': 0.4927667638488705, 'recall': 0.5468812877263581, 'f1_score': 0.49880998453509373}, 'main_class_2': {'accuracy': 0.6426559356136821, 'precision': 0.5309823752572133, 'recall': 0.6426559356136821, 'f1_score': 0.5741620698718879}, 'sub_class': {'accuracy': 0.5352112676056338, 'precision': 0.3549056467287348, 'recall': 0.5352112676056338, 'f1_score': 0.4234412682064919}}
+Epsilon: 4.65, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.58
+Training Duration: 242.50s
+Privacy-Performance Tradeoff: 7.12
+
+Epoch 9
+Train Loss: 2579.8217, Val Loss: 5.3410
+Avg Metrics: {'accuracy': 0.7074446680080483, 'precision': 0.6368286192101403, 'recall': 0.7074446680080484, 'f1_score': 0.660695510258062}
+Task Metrics: {'super_class': {'accuracy': 0.8635814889336016, 'precision': 0.846657535722083, 'recall': 0.8635814889336016, 'f1_score': 0.8503715727198248}, 'malignancy': {'accuracy': 0.9134808853118712, 'precision': 0.8946171620920492, 'recall': 0.9134808853118712, 'f1_score': 0.8955748512451561}, 'main_class_1': {'accuracy': 0.5613682092555332, 'precision': 0.4942298542745403, 'recall': 0.5613682092555332, 'f1_score': 0.5170614092740319}, 'main_class_2': {'accuracy': 0.6438631790744467, 'precision': 0.540766085003475, 'recall': 0.6438631790744467, 'f1_score': 0.5862955203055576}, 'sub_class': {'accuracy': 0.5549295774647888, 'precision': 0.40787245895855423, 'recall': 0.5549295774647888, 'f1_score': 0.4541741977457396}}
+Epsilon: 4.82, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.58
+Training Duration: 239.61s
+Privacy-Performance Tradeoff: 7.30
+
+Epoch 10
+Train Loss: 2628.2186, Val Loss: 6.8192
+Avg Metrics: {'accuracy': 0.7011670020120724, 'precision': 0.6153199224052857, 'recall': 0.7011670020120725, 'f1_score': 0.6285016751936026}
+Task Metrics: {'super_class': {'accuracy': 0.8619718309859155, 'precision': 0.8493436252668027, 'recall': 0.8619718309859155, 'f1_score': 0.8222222164617666}, 'malignancy': {'accuracy': 0.9227364185110664, 'precision': 0.9105992041214475, 'recall': 0.9227364185110664, 'f1_score': 0.9058359582971205}, 'main_class_1': {'accuracy': 0.543661971830986, 'precision': 0.4505506095800936, 'recall': 0.543661971830986, 'f1_score': 0.4529683515487692}, 'main_class_2': {'accuracy': 0.635814889336016, 'precision': 0.5309045353259814, 'recall': 0.635814889336016, 'f1_score': 0.5483512358965265}, 'sub_class': {'accuracy': 0.5416498993963783, 'precision': 0.33520163773210304, 'recall': 0.5416498993963783, 'f1_score': 0.4131306137638299}}
+Epsilon: 4.99, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.58
+Training Duration: 240.95s
+Privacy-Performance Tradeoff: 7.94
+
+Epoch 1
+Train Loss: 3605.9620, Val Loss: 7.1352
+Avg Metrics: {'accuracy': 0.67420523138833, 'precision': 0.4821489419413868, 'recall': 0.6742052313883299, 'f1_score': 0.5545512684648666}
+Task Metrics: {'super_class': {'accuracy': 0.8442655935613682, 'precision': 0.7127843924715294, 'recall': 0.8442655935613682, 'f1_score': 0.7729736920321844}, 'malignancy': {'accuracy': 0.8993963782696177, 'precision': 0.8089138452445053, 'recall': 0.8993963782696177, 'f1_score': 0.8517588582341508}, 'main_class_1': {'accuracy': 0.4921529175050302, 'precision': 0.24221449420871308, 'recall': 0.4921529175050302, 'f1_score': 0.3246510345785609}, 'main_class_2': {'accuracy': 0.6028169014084507, 'precision': 0.3633882166236858, 'recall': 0.6028169014084507, 'f1_score': 0.4534369662615412}, 'sub_class': {'accuracy': 0.532394366197183, 'precision': 0.2834437611585003, 'recall': 0.532394366197183, 'f1_score': 0.3699357912178956}}
+Epsilon: 5.37, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.48
+Training Duration: 242.11s
+Privacy-Performance Tradeoff: 9.68
+
+Epoch 2
+Train Loss: 2693.9864, Val Loss: 6.0230
+Avg Metrics: {'accuracy': 0.6812072434607647, 'precision': 0.5946703798496188, 'recall': 0.6812072434607647, 'f1_score': 0.6025340322304735}
+Task Metrics: {'super_class': {'accuracy': 0.8551307847082495, 'precision': 0.8413404021447453, 'recall': 0.8551307847082495, 'f1_score': 0.8054869857313659}, 'malignancy': {'accuracy': 0.9098591549295775, 'precision': 0.8906736613363314, 'recall': 0.9098591549295775, 'f1_score': 0.8831219157174891}, 'main_class_1': {'accuracy': 0.5203219315895372, 'precision': 0.4392914823492691, 'recall': 0.5203219315895372, 'f1_score': 0.4231923579703681}, 'main_class_2': {'accuracy': 0.5967806841046278, 'precision': 0.479065404475043, 'recall': 0.5967806841046278, 'f1_score': 0.5017231179061277}, 'sub_class': {'accuracy': 0.523943661971831, 'precision': 0.32298094894270474, 'recall': 0.523943661971831, 'f1_score': 0.39914578382701643}}
+Epsilon: 6.21, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.48
+Training Duration: 242.03s
+Privacy-Performance Tradeoff: 10.31
+
+Epoch 3
+Train Loss: 2788.8116, Val Loss: 5.4771
+Avg Metrics: {'accuracy': 0.6283299798792756, 'precision': 0.6365386180284849, 'recall': 0.6283299798792756, 'f1_score': 0.6214938019282578}
+Task Metrics: {'super_class': {'accuracy': 0.8, 'precision': 0.8446855322054474, 'recall': 0.8, 'f1_score': 0.816338477332547}, 'malignancy': {'accuracy': 0.8663983903420523, 'precision': 0.9117271114370954, 'recall': 0.8663983903420523, 'f1_score': 0.8817271083620352}, 'main_class_1': {'accuracy': 0.48410462776659957, 'precision': 0.49024426635761537, 'recall': 0.48410462776659957, 'f1_score': 0.47615148420282893}, 'main_class_2': {'accuracy': 0.5199195171026157, 'precision': 0.5564746813022713, 'recall': 0.5199195171026157, 'f1_score': 0.5241804810281104}, 'sub_class': {'accuracy': 0.4712273641851107, 'precision': 0.37956149883999474, 'recall': 0.4712273641851107, 'f1_score': 0.40907145871576706}}
+Epsilon: 6.87, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.48
+Training Duration: 244.92s
+Privacy-Performance Tradeoff: 11.05
+
+Epoch 4
+Train Loss: 2699.9265, Val Loss: 6.5931
+Avg Metrics: {'accuracy': 0.695533199195171, 'precision': 0.6081402742967201, 'recall': 0.6955331991951711, 'f1_score': 0.6290301271669568}
+Task Metrics: {'super_class': {'accuracy': 0.8672032193158954, 'precision': 0.8520588847722546, 'recall': 0.8672032193158954, 'f1_score': 0.836762596151958}, 'malignancy': {'accuracy': 0.9114688128772636, 'precision': 0.893850488603877, 'recall': 0.9114688128772636, 'f1_score': 0.886060807657871}, 'main_class_1': {'accuracy': 0.5416498993963783, 'precision': 0.45569981518161123, 'recall': 0.5416498993963783, 'f1_score': 0.47132835199264655}, 'main_class_2': {'accuracy': 0.6329979879275653, 'precision': 0.49637291550598955, 'recall': 0.6329979879275653, 'f1_score': 0.5446311112759147}, 'sub_class': {'accuracy': 0.5243460764587525, 'precision': 0.34271926741986825, 'recall': 0.5243460764587525, 'f1_score': 0.4063677687563941}}
+Epsilon: 7.43, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.48
+Training Duration: 241.62s
+Privacy-Performance Tradeoff: 11.82
+
+Epoch 5
+Train Loss: 2584.4584, Val Loss: 6.1518
+Avg Metrics: {'accuracy': 0.6997987927565392, 'precision': 0.6230727421180433, 'recall': 0.6997987927565392, 'f1_score': 0.6375345699094671}
+Task Metrics: {'super_class': {'accuracy': 0.8676056338028169, 'precision': 0.8498351513258217, 'recall': 0.8676056338028169, 'f1_score': 0.8509161996229264}, 'malignancy': {'accuracy': 0.9251509054325956, 'precision': 0.9118585429043924, 'recall': 0.9251509054325956, 'f1_score': 0.9137799452257372}, 'main_class_1': {'accuracy': 0.5428571428571428, 'precision': 0.45330185194945727, 'recall': 0.5428571428571428, 'f1_score': 0.46881899974678976}, 'main_class_2': {'accuracy': 0.6329979879275653, 'precision': 0.5380438372910874, 'recall': 0.6329979879275653, 'f1_score': 0.5360236347111992}, 'sub_class': {'accuracy': 0.5303822937625755, 'precision': 0.36232432711945817, 'recall': 0.5303822937625755, 'f1_score': 0.41813407024068283}}
+Epsilon: 7.94, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.48
+Training Duration: 240.35s
+Privacy-Performance Tradeoff: 12.45
+
+Epoch 6
+Train Loss: 2605.5200, Val Loss: 5.5730
+Avg Metrics: {'accuracy': 0.7011670020120724, 'precision': 0.6264491638829335, 'recall': 0.7011670020120724, 'f1_score': 0.651902351975121}
+Task Metrics: {'super_class': {'accuracy': 0.8696177062374245, 'precision': 0.8579870713049959, 'recall': 0.8696177062374245, 'f1_score': 0.8616547464301467}, 'malignancy': {'accuracy': 0.9122736418511066, 'precision': 0.909660235265506, 'recall': 0.9122736418511066, 'f1_score': 0.910944044797585}, 'main_class_1': {'accuracy': 0.5517102615694165, 'precision': 0.4766748538097844, 'recall': 0.5517102615694165, 'f1_score': 0.49034517497700075}, 'main_class_2': {'accuracy': 0.635010060362173, 'precision': 0.5279231011943755, 'recall': 0.635010060362173, 'f1_score': 0.5689980989939294}, 'sub_class': {'accuracy': 0.5372233400402414, 'precision': 0.3600005578400055, 'recall': 0.5372233400402414, 'f1_score': 0.4275696946769425}}
+Epsilon: 8.40, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.48
+Training Duration: 239.47s
+Privacy-Performance Tradeoff: 12.89
+
+Epoch 7
+Train Loss: 2550.4478, Val Loss: 6.4913
+Avg Metrics: {'accuracy': 0.7092957746478874, 'precision': 0.622835279677842, 'recall': 0.7092957746478874, 'f1_score': 0.6400708986480128}
+Task Metrics: {'super_class': {'accuracy': 0.8748490945674045, 'precision': 0.8598994777233104, 'recall': 0.8748490945674045, 'f1_score': 0.8597920780388407}, 'malignancy': {'accuracy': 0.9323943661971831, 'precision': 0.9220445446516768, 'recall': 0.9323943661971831, 'f1_score': 0.9220616733366334}, 'main_class_1': {'accuracy': 0.5448692152917505, 'precision': 0.45754530776249197, 'recall': 0.5448692152917505, 'f1_score': 0.45304610247282034}, 'main_class_2': {'accuracy': 0.6390342052313883, 'precision': 0.5178449356100946, 'recall': 0.6390342052313883, 'f1_score': 0.540110269825689}, 'sub_class': {'accuracy': 0.5553319919517102, 'precision': 0.356842132641636, 'recall': 0.5553319919517102, 'f1_score': 0.4253443695660803}}
+Epsilon: 8.83, Delta: 1.00e-05, Cumulative Privacy Loss: 0.00, Sigma: 0.48
+Training Duration: 241.62s
+Privacy-Performance Tradeoff: 13.80
+

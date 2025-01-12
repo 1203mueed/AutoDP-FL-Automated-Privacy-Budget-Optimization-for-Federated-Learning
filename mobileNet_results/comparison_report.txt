@@ -1,0 +1,4 @@
+{"name": "best_val_accuracy", "precision": 0.8314026619829076, "recall": 0.8373440643863178, "f1_score": 0.8324373660087032, "accuracy": 0.837344064386318}
+{"name": "best_val_precision", "precision": 0.8373613053211031, "recall": 0.8374245472837021, "f1_score": 0.8339735582435622, "accuracy": 0.8374245472837021}
+{"name": "best_val_recall", "precision": 0.8314026619829076, "recall": 0.8373440643863178, "f1_score": 0.8324373660087032, "accuracy": 0.837344064386318}
+{"name": "best_val_f1_score", "precision": 0.8314026619829076, "recall": 0.8373440643863178, "f1_score": 0.8324373660087032, "accuracy": 0.837344064386318}

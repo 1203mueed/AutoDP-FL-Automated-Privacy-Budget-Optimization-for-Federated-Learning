@@ -1,0 +1,61 @@
+https://www.mermaidchart.com/
+D1. System Design State Diagram
+stateDiagram-v2
+    state "Data Preparation" as DP
+    state "AI Model Training" as MT
+    state "Select the Best Model" as SBM
+    state "Experiment with Different Epsilon Values on Best Model" as EE
+    state "Select the Optimal Epsilon Value" as OE
+    state "Send the Best Model and Optimal Epsilon to Client Servers" as SC
+    state "Get New Trained Models from Clients" as GU
+    state "Use Federated Learning Aggregation (FedAvg)" as FL
+
+
+    DP --> MT
+    MT --> SBM
+    SBM --> EE
+    EE --> OE
+    OE --> SC
+    SC --> GU
+    GU --> FL
+    FL --> EE
+
+
+D2. Epsilon Value Experiment State Diagram
+stateDiagram-v2
+    state "Experiment with Epsilon Values" as EE
+    state "Train with Opacus" as TO
+    state "Training Loop" as TL
+    state "Evaluate Model" as EM
+    state "Log Results" as LR
+
+
+    [*] --> EE
+    EE --> TO
+    TO --> TL
+    TL --> EM
+    EM --> LR
+    EM --> EE
+
+
+D3. Find Optimal Epsilon
+stateDiagram-v2
+    state "Define Objective Function" as DOF
+    state "Normalize Metrics" as NM
+    state "Normalize F1 Scores" as NF1
+    state "Normalize Epsilons" as NE
+    state "Assign Weights" as AW
+    state "Combine Metrics" as CM
+    state "Find Optimal Epsilon" as FOE
+    state "Output Optimal Epsilon" as OOE
+
+
+    DOF --> NM
+    NM --> NF1
+    NM --> NE
+    NF1 --> AW
+    NE --> AW
+    AW --> CM
+    CM --> FOE
+    FOE --> OOE
+
