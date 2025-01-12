@@ -1,7 +1,7 @@
 # AutoDP-FL: Automated Privacy Budget Optimization for Federated Learning
 
 **Description:**  
-AutoDP-FL automates privacy budget (\(\varepsilon\)) tuning for federated learning. It uses Opacus for DP in PyTorch, Flower for federated training, and popular architectures (e.g. AlexNet, ResNet). This ensures privacy-preserving multi-task classification with minimal utility loss.
+AutoDP-FL automates privacy budget (ε) tuning for federated learning. It uses Opacus for Differential Privacy (DP) in PyTorch, Flower for federated training, and popular architectures (e.g., AlexNet, ResNet). This ensures privacy-preserving multi-task classification with minimal utility loss.
 
 ---
 
@@ -13,7 +13,6 @@ AutoDP-FL automates privacy budget (\(\varepsilon\)) tuning for federated learni
 5. [Federated Learning with Flower](#federated-learning-with-flower)
 6. [Optimal Epsilon Discovery](#optimal-epsilon-discovery)
 7. [Contributing](#contributing)
-8. [License](#license)
 
 ---
 
